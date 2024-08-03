@@ -2,11 +2,34 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer utilities{
-    .bgmain{
+@layer utilities {
+    .bgmain {
         background-color: #f6f6f6;
     }
-    .bsh{
+
+    .bsh {
         box-shadow: 0px 0px 15px #dfdcdcaf;
+    }
+
+    .b-c {
+        background-color: #eceff163;
+    }
+    .hi-1{
+        background-image: url(../public/Assets/images/w-1.jpg);
+        background-size: cover;
+    }
+    .hi-2{
+        background-image: url(../public/Assets/images/w-2.jpg);
+        background-size: cover;
+    }
+    .hi-3{
+        background-image: url(../public/Assets/images/w-3.jpg);
+        background-size: cover;
+    }
+    .tra{
+        transform: scale(0.9) ease-in-out 1s;
+        background-color: #f6f6f6;
+        box-shadow: 0px 0px 15px #dfdcdcaf;
+      
     }
 }
