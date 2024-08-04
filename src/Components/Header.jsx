@@ -1,21 +1,20 @@
-import React, { useState,useEffect } from "react";
+import React, { useState, useContext } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUser, faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
+import { userContext } from "../App";
+import { useNavigate } from "react-router-dom";
 
 export default function Header() {
     const [openMenu, setOpenMenu] = useState(false);
 
-    const [home, setHome] = useState(() => {
-        const savedHome = localStorage.getItem('home');
-        return savedHome !== null ? JSON.parse(savedHome) : false;
-    });
+    const{home,setHome}=useContext(userContext);
 
+    const navigate=useNavigate();
 
-    // Update local storage whenever 'home' changes
-    useEffect(() => {
-        localStorage.setItem('home', JSON.stringify(home));
-    }, [home]);
-
+    function handleNavigateHome(){
+        navigate('/');
+        setHome(true);
+    }
   
 
 
@@ -23,7 +22,9 @@ export default function Header() {
     return (
         <div className="w-screen h-24 flex items-center justify-evenly mt-4 relative">
             <div className="h-[60px] w-[60px] rounded-[50%] bg-[#ffffff] bsh flex items-center justify-center">
-                <FontAwesomeIcon icon={faUser} style={{ color: "#d4d6d8" }} />
+            {
+                home ? <div className="bitmoji"></div> : <i class="fa-solid fa-arrow-left cursor-pointer" style={{color:"#d4d6d8"}} onClick={handleNavigateHome} > </i>  
+            }
             </div>
             <div className="h-[60px] w-[186px] bg-[#ffffff] bsh rounded-[30px] flex items-center justify-evenly">
                 <div className="h-12 w-12 rounded-lg text-center flex items-center active:bg-slate-100">Work</div>

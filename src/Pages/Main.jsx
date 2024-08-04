@@ -1,11 +1,14 @@
 
-import { useEffect } from "react";
+import { useContext, useEffect } from "react";
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 import { useNavigate } from "react-router-dom";
+import { userContext } from "../App";
 
 
 export default function Main() {
+
+    const {home,setHome}=useContext(userContext);
 
 
     useEffect(() => {
@@ -15,6 +18,13 @@ export default function Main() {
 
 
     const navigate = useNavigate();
+
+
+    function handlenavigateHindu() {
+        navigate('/hindu');
+        setHome(!home);
+
+    }
 
 
     return (
@@ -53,7 +63,7 @@ export default function Main() {
                             <div className="btn h-[50px] w-[200px] bg-white rounded-md flex items-center  justify-evenly">
 
 
-                                <button className=" " onClick={() => navigate('/hindu')}>Click Here </button>
+                                <button className=" " onClick={handlenavigateHindu}>Click Here </button>
                                 <i className="fa-solid fa-arrow-right" style={{ color: "#d4d6d8" }}></i>
 
                             </div>
@@ -83,7 +93,7 @@ export default function Main() {
 
                         <div className="flex flex-col h-[400px] w-[25vw] items-start justify-evenly">
                             <div>
-                                <h1 className="text-4xl ">Indian Weddings</h1>
+                                <h1 className="text-4xl ">Country Weddings</h1>
                                 <p>Over the years worked with lot of Indian clients
                                     for indian style weddings.
                                 </p>
@@ -125,7 +135,7 @@ export default function Main() {
 
                         <div className="flex flex-col h-[400px] w-[25vw] items-start justify-evenly">
                             <div>
-                                <h1 className="text-4xl ">Indian Weddings</h1>
+                                <h1 className="text-4xl ">Events</h1>
                                 <p>Over the years worked with lot of Indian clients
                                     for indian style weddings.
                                 </p>
@@ -165,7 +175,7 @@ export default function Main() {
 
                         <div className="flex flex-col h-[400px] w-[25vw] items-start justify-evenly">
                             <div>
-                                <h1 className="text-4xl ">Indian Weddings</h1>
+                                <h1 className="text-4xl ">Concerts</h1>
                                 <p>Over the years worked with lot of Indian clients
                                     for indian style weddings.
                                 </p>

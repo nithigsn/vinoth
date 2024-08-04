@@ -27,15 +27,13 @@ body {
 .box {
   background-color: #f6f6f6;
 }
-
-.box:hover {
+.box:hover{
   background-color: white;
   box-shadow: 5px 5px 15px #dfdcdcaf;
-  transform: scale(1.03);
+  transform: scale(1.05);
   transition:  0.8s ease-in-out;
-
-  
 }
+
 .box:hover .btn{
-  background-color: #f6f6f6; ;
+  background-color: #f6f6f6; 
 }
