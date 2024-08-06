@@ -7,28 +7,39 @@ import { useNavigate } from "react-router-dom";
 export default function Header() {
     const [openMenu, setOpenMenu] = useState(false);
 
-    const{home,setHome}=useContext(userContext);
+    const { home, setHome } = useContext(userContext);
 
-    const navigate=useNavigate();
+    const [tab, setTab] = useState(() => {
+        const savedTab = localStorage.getItem('tab');
+        return savedTab !== null ? JSON.parse(savedTab) : "home"
+    })
 
-    function handleNavigateHome(){
+    const navigate = useNavigate();
+
+    function handleNavigateHome() {
         navigate('/');
         setHome(true);
     }
-  
+
+    function handleTab() {
+
+        setTab("work");
+        navigate('/extra');
+    }
+
 
 
 
     return (
-        <div className="w-screen h-24 flex items-center justify-evenly mt-4 relative">
+        <div className="w-full h-24 flex items-center justify-evenly mt-4 relative">
             <div className="h-[60px] w-[60px] rounded-[50%] bg-[#ffffff] bsh flex items-center justify-center">
-            {
-                home ? <div className="bitmoji"></div> : <i class="fa-solid fa-arrow-left cursor-pointer" style={{color:"#d4d6d8"}} onClick={handleNavigateHome} > </i>  
-            }
+                {
+                    home ? <div className="bitmoji"></div> : <i class="fa-solid fa-arrow-left cursor-pointer" style={{ color: "#d4d6d8" }} onClick={handleNavigateHome} > </i>
+                }
             </div>
             <div className="h-[60px] w-[186px] bg-[#ffffff] bsh rounded-[30px] flex items-center justify-evenly">
-                <div className="h-12 w-12 rounded-lg text-center flex items-center active:bg-slate-100">Work</div>
-                <div className="h-12 w-12 rounded-lg text-center flex items-center active:bg-slate-100">Play</div>
+                <div className={`h-12 w-20 rounded-[20px] text-center flex items-center justify-center ${tab === home ? "currentTab" : "noTab"}`}>Work</div>
+                <div className={`h-12 w-20 rounded-[20px] text-center flex items-center justify-center ${tab}`} onCanPlay={handleTab}>Play</div>
             </div>
             <div className="h-[60px] w-[60px] rounded-[50%] bg-[#ffffff] bsh flex items-center justify-center" onClick={() => setOpenMenu(!openMenu)}>
                 <FontAwesomeIcon icon={openMenu ? faTimes : faBars} style={{ color: "#d4d6d8" }} className=" translate-x-0" />

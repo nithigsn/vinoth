@@ -12,11 +12,14 @@ export default function IndianWeddings() {
 
         <div className="w-full h-full inline-flex items-center justify-center p-11">
 
+
+            <h1></h1>
+
             <div className="w-[65vw] h-full flex gap-1 ">
 
                 <div className="flex flex-col w-[32.5vw] h-[60vh]  gap-1">
                     <div className="h-[20vh] w-[32.5vw]  flex gap-1">
-                        <div className="h-[20vh] w-[22vw] bg-land-1 small" data-aos="fade-right" ></div>
+                        <div className="h-[20vh] w-[22vw] bg-land-1 small" data-aos="fade-right" data-aos-offset='300' ></div>
                         <div className="h-[20vh] w-[10.5vw] bg-sq3 small"></div>
                     </div>
 
