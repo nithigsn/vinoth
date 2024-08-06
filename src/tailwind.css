@@ -42,23 +42,24 @@
         background-size: cover;
     }
     .bg-ver{
-        background-image: url(../public/Assets/images/Indian/ind-vertical.jpg);
+        background-image: url(../public/Assets/images/ArunSanthiya/VIN_7792.jpg);
         background-size: cover;
         border-radius:4px;
     }
     .bg-ver2{
-        background-image: url(../public/Assets/images/Indian/ver-2.jpg);
+        background-image: url(../public/Assets/images/ArunSanthiya/VIN_7619.jpg);
         background-size: cover;
         border-radius:4px;
         background-repeat: no-repeat;
     }
     .bg-sq{
-        background-image: url(../public/Assets/images/Indian/ind-sq.jpg);
+        background-image: url(../public/Assets/images/ArunSanthiya/9W8A6943.jpg);
         background-size: cover;
+        background-repeat: no-repeat;
         border-radius:4px;
     }
     .bg-sq1{
-        background-image: url(../public/Assets/images/Indian/ind-sq\ 1.jpeg);
+        background-image: url(../public/Assets/images/ArunSanthiya/VIN_7664.jpg);
         background-size: cover;
         border-radius:4px;
     }
@@ -97,3 +98,4 @@
 
     }
 }
+

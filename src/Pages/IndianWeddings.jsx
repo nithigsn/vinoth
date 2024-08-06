@@ -10,12 +10,12 @@ export default function IndianWeddings() {
     }, [])
     return (
 
-        <div className="w-full h-full inline-flex items-center justify-center p-11">
+        <div className="w-full h-full inline-flex flex-col items-center justify-center p-11">
 
 
-            <h1></h1>
+            <h1 className='he-wed text-6xl'>Arun Weds Santhiya</h1>
 
-            <div className="w-[65vw] h-full flex gap-1 ">
+            <div className="w-[65vw] h-full flex gap-1 mt-8">
 
                 <div className="flex flex-col w-[32.5vw] h-[60vh]  gap-1">
                     <div className="h-[20vh] w-[32.5vw]  flex gap-1">
@@ -24,7 +24,7 @@ export default function IndianWeddings() {
                     </div>
 
                     <div className="w-[32.5vw] h-[40vh] bg-land-2 big ">
-                       
+
                     </div>
                 </div>
 
@@ -46,8 +46,40 @@ export default function IndianWeddings() {
                 </div>
 
 
+            </div>
+
+
+
+            <div className="w-[65vw] h-full flex gap-1 mt-8">
+
+                <div className="flex flex-col w-[32.5vw] h-[60vh]  gap-1">
+                   
+
+                    <div>
+                        <img src="/public/Assets/images/ArunSanthiya/w-l.jpg" alt="" srcset="" className='h-28 w-40' />
+                    </div>
+                </div>
+
+
+                <div className="flex flex-col w-[32.5vw] h-[60vh] gap-1" >
+                    
+
+                </div>
+
+
+
+
+
+
+
+
+
 
             </div>
+
+
+
+
 
 
         </div>
