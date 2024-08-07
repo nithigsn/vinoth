@@ -29,18 +29,18 @@ export default function Main() {
 
     return (
 
-        <div className="flex flex-col h-full w-full  items-center justify-center ">
+        <div className="flex flex-col h-full w-full  items-center justify-around ">
 
             <div className="flex flex-col w-[90vw] h-full justify-around items-center ">
 
                 <div className=" flex flex-col items-center justify-center w-[90vw] h-[400px] ">
-                    <h1 className="text-6xl text-center">Hi,I'm Vinoth.</h1>
+                    <h1 className="text-5xl text-center">Hi,I'm Vinoth.</h1>
 
                     <div className="flex items-center ">
-                        <p> <i className="fa-solid fa-location-dot" style={{ color: "#d4d6d8" }} ></i> Paris,France</p>
+                        <p className="text-sm"> <i className="fa-solid fa-location-dot" style={{ color: "#d4d6d8" }} ></i> Paris,France</p>
                     </div>
 
-                    <p className="text-center">I'm a Photographer and a Videographer.Over the years worked with many clients. <br />
+                    <p className="text-center text-xs w-[300px]">I'm a Photographer and a Videographer.Over the years worked with many clients. <br />
                     Captured many precious moments. Scroll down and Checkout !</p>
 
                 </div>
@@ -87,7 +87,7 @@ export default function Main() {
 
                 {/* -------------------------------------------------Box 2------------------------------------- */}
 
-                <div className="box w-[90vw] h-[400px] flex  cursor-pointer rounded-s" data-aos="fade-right">
+                <div className="box  w-[90vw] h-[400px] mt-[50px] flex cursor-pointer rounded-s" data-aos="fade-right">
 
                     <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] ">
                         <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly">
@@ -125,7 +125,7 @@ export default function Main() {
 
 
               
-                <div className="box w-[90vw] h-[400px] flex  cursor-pointer rounded-s" data-aos="fade-right">
+                <div className="box  w-[90vw] h-[400px] mt-[50px] flex  cursor-pointer rounded-s" data-aos="fade-right">
 
                     <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] ">
                         <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly">
@@ -161,7 +161,7 @@ export default function Main() {
 
                 {/* -------------------------------------------------Box 4------------------------------------- */}
                 
-                <div className="box w-[90vw] h-[400px] flex  cursor-pointer rounded-s" data-aos="fade-right">
+                <div className="box  w-[90vw] h-[400px] mt-[50px] flex  cursor-pointer rounded-s" data-aos="fade-right">
 
                     <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] ">
                         <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly">
