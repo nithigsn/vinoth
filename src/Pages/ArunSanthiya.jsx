@@ -15,12 +15,12 @@ export default function ArunSanthiya() {
 
 
     return (
-        <div className="w-full h-full inline-flex flex-col items-center justify-center p-11">
+        <div className="w-full h-full flex flex-col items-center justify-center ">
 
 
             <h1 className='he-wed text-6xl'>Arun Weds Santhiya</h1>
 
-            <div className="w-[65vw] h-full flex gap-1 mt-8">
+            <div className="w-[65vw] h-full flex flex-gap-1 mt-8">
 
                 <div className="flex flex-col w-[32.5vw] h-[60vh]  gap-1">
                     <div className="h-[20vh] w-[32.5vw]  flex gap-1">
