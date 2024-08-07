@@ -31,16 +31,16 @@ export default function Main() {
 
         <div className="flex flex-col h-full w-full  items-center justify-center ">
 
-            <div className="flex flex-col w-[60vw] h-full  ">
+            <div className="flex flex-col w-[60vw] h-full justify-around ">
 
-                <div className="flex flex-col items-center justify-center w-[60vw] h-[400px] ">
+                <div className=" flex flex-col items-center justify-center w-[60vw] h-[400px] ">
                     <h1 className="text-6xl text-center">Hi,I'm Vinoth.</h1>
 
                     <div className="flex items-center ">
                         <p> <i className="fa-solid fa-location-dot" style={{ color: "#d4d6d8" }} ></i> Paris,France</p>
                     </div>
 
-                    <p>I'm a Photographer and a Videographer.Over the years worked with many clients. <br />
+                    <p className="text-center">I'm a Photographer and a Videographer.Over the years worked with many clients. <br />
                     Captured many precious moments. Scroll down and Checkout !</p>
 
                 </div>
@@ -73,10 +73,9 @@ export default function Main() {
 
                     </div>
 
-                    <div className="flex flex-col h-[400px] gap-2 ">
+                    <div className="innerbox flex flex-col h-[400px] gap-2 ">
 
-                        <div className="w-[30vw] h-[200px] hi-1 rounded-sm">
-                        </div>
+                        <div className="w-[30vw] h-[200px] hi-1 rounded-sm"></div>
                         <div className="flex w-[30vw] h-[200px] gap-2">
                             <div className="w-[15vw]  hi-2 rounded-sm"></div>
                             <div className="hi-3 w-[15vw] rounded-sm"></div>
@@ -95,7 +94,7 @@ export default function Main() {
                         <div className="flex flex-col h-[400px] w-[25vw] items-start justify-evenly">
                             <div>
                                 <h1 className="text-4xl ">Country Weddings</h1>
-                                <p>Over the years worked with lot of Indian clients
+                                <p >Over the years worked with lot of Indian clients
                                     for indian style weddings.
                                 </p>
                             </div>
@@ -112,7 +111,7 @@ export default function Main() {
 
                     </div>
 
-                    <div className="flex  h-[400px] gap-2 ">
+                    <div className=" inner-2 flex  h-[400px] gap-2 ">
                         <div className="w-[15vw] h-[400px] hi-2 rounded-sm">
                         </div>
                         <div className="flex flex-col w-[15vw] h-[400px] gap-2 ">
@@ -154,7 +153,7 @@ export default function Main() {
 
                     </div>
 
-                    <div className="flex  h-[400px] gap-2 ">
+                    <div className=" inner-two flex  h-[400px] gap-2 ">
                         <div className="w-[15vw] h-[400px] hi-2 rounded-sm">
                         </div>
                         <div className="flex flex-col w-[15vw] h-[400px] gap-2 ">
@@ -194,7 +193,7 @@ export default function Main() {
 
                     </div>
 
-                    <div className="flex  h-[400px] gap-2 ">
+                    <div className=" iner-2 flex  h-[400px] gap-2 ">
                         <div className="w-[15vw] h-[400px] hi-2 rounded-sm">
                         </div>
                         <div className="flex flex-col w-[15vw] h-[400px] gap-2 ">

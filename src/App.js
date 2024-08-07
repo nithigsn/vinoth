@@ -31,8 +31,8 @@ function App() {
         <Header />
         <Routes>
           <Route path='/' element={<Main />} />
-          <Route path='/hindu/*' element={<IndianWeddings />} />
-          <Route path="/arunsanthiya" element={<ArunSanthiya />} />
+          <Route path='/hindu' element={<IndianWeddings />}/>
+          <Route path="/hindu/arunsanthiya" element={<ArunSanthiya/>}/>
         </Routes>
         <Footer />
       </BrowserRouter>

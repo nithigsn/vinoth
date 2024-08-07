@@ -1,4 +1,19 @@
+import AOS from 'aos'
+import 'aos/dist/aos.css'
+import { useEffect } from 'react';
+
+
 export default function ArunSanthiya() {
+
+
+
+
+    useEffect(() => {
+        AOS.init({ duration: 2000 });
+
+    }, [])
+
+
     return (
         <div className="w-full h-full inline-flex flex-col items-center justify-center p-11">
 
@@ -41,6 +56,8 @@ export default function ArunSanthiya() {
 
 
             </div>
+
+
 
         </div>
     );
