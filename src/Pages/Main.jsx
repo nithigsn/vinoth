@@ -40,7 +40,8 @@ export default function Main() {
                         <p> <i className="fa-solid fa-location-dot" style={{ color: "#d4d6d8" }} ></i> Paris,France</p>
                     </div>
 
-                    <p>I Take Photos and Videos could be wedding birthday events personal shoots</p>
+                    <p>I'm a Photographer and a Videographer.Over the years worked with many clients. <br />
+                    Captured many precious moments. Scroll down and Checkout !</p>
 
                 </div>
 

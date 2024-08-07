@@ -4,7 +4,7 @@ import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Main from "./Pages/Main";
 import IndianWeddings from "./Pages/IndianWeddings";
-import Extra from "./Pages/Extra";
+import ArunSanthiya from "./Pages/ArunSanthiya";
 
 
 
@@ -31,8 +31,8 @@ function App() {
         <Header />
         <Routes>
           <Route path='/' element={<Main />} />
-          <Route path='/hindu' element={<IndianWeddings/>} />
-          <Route path="/extra" element={<Extra/>}/>
+          <Route path='/hindu/*' element={<IndianWeddings />} />
+          <Route path="/arunsanthiya" element={<ArunSanthiya />} />
         </Routes>
         <Footer />
       </BrowserRouter>

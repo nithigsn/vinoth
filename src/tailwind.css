@@ -14,88 +14,95 @@
     .b-c {
         background-color: #eceff163;
     }
-    .currentTab{
+
+    .currentTab {
         border: 1px solid black;
     }
-    .hi-1{
-        background-image: url(../public/Assets/images/w-1.jpg);
+
+    .hi-1 {
+        background-image: url(../public/Assets/images/ArunSanthiya/w-l.jpg);
         background-size: cover;
     }
-    .hi-2{
-        background-image: url(../public/Assets/images/w-2.jpg);
+
+    .hi-2 {
+        background-image: url(../public/Assets/images/ArunSanthiya/VIN_7619.jpg);
+        background-size: cover;
+
+    }
+
+    .hi-3 {
+        background-image: url(../public/Assets/images/ArunSanthiya/VIN_7792.jpg);
         background-size: cover;
     }
-    .hi-3{
-        background-image: url(../public/Assets/images/w-3.jpg);
-        background-size: cover;
-    }
-    .tra{
+
+    .tra {
         transform: scale(0.9) ease-in-out 1s;
         background-color: #f6f6f6;
         box-shadow: 0px 0px 15px #dfdcdcaf;
-      
+
     }
-    .bitmoji{
+
+    .bitmoji {
         height: 40px;
         width: 40px;
         background-image: url(../public/Assets/images/bitmoji.png);
         background-size: cover;
     }
-    .bg-ver{
+
+    .bg-ver {
         background-image: url(../public/Assets/images/ArunSanthiya/VIN_7792.jpg);
         background-size: cover;
-        border-radius:4px;
+        border-radius: 4px;
     }
-    .bg-ver2{
+
+    .bg-ver2 {
         background-image: url(../public/Assets/images/ArunSanthiya/VIN_7619.jpg);
         background-size: cover;
-        border-radius:4px;
+        border-radius: 4px;
         background-repeat: no-repeat;
     }
-    .bg-sq{
+
+    .bg-sq {
         background-image: url(../public/Assets/images/ArunSanthiya/9W8A6943.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        border-radius:4px;
+        border-radius: 4px;
     }
-    .bg-sq1{
+
+    .bg-sq1 {
         background-image: url(../public/Assets/images/ArunSanthiya/VIN_7664.jpg);
         background-size: cover;
-        border-radius:4px;
+        border-radius: 4px;
     }
-    .bg-sq2{
+
+    .bg-sq2 {
         background-image: url(../public/Assets/images/Indian/ind-sq\ 2.jpeg);
         background-size: cover;
-        border-radius:4px;
+        border-radius: 4px;
     }
-    .bg-land{
+
+    .bg-land {
         background-image: url(../public/Assets/images/Indian/indian-land\ 2.jpg);
         background-size: cover;
-        border-radius:4px;
+        border-radius: 4px;
     }
-    .bg-land-2{
+
+    .bg-land-2 {
         background-image: url(../public/Assets/images/Indian/hands-land.jpg);
         background-size: cover;
-        border-radius:4px;
+        border-radius: 4px;
     }
-    .bg-land-1{
+
+    .bg-land-1 {
         background-image: url(../public/Assets/images/w-1.jpg);
         background-size: cover;
-        border-radius:4px;
+        border-radius: 4px;
     }
-    .bg-sq3{
+
+    .bg-sq3 {
         background-image: url(../public/Assets/images/w-3.jpg);
         background-size: cover;
-        border-radius:4px;
+        border-radius: 4px;
     }
-    .big:hover img{
-        transform: scale(0.8);
-        transition: ease-in-out 1s;
-    }
-    .small:hover{
-        transform: scale(1.03);
-        transition: ease-in-out 1s;
-
-    }
+   
 }
-
