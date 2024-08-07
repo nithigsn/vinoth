@@ -44,10 +44,10 @@ export default function Header() {
             <div className="h-[60px] w-[60px] rounded-[50%] bg-[#ffffff] bsh flex items-center justify-center" onClick={() => setOpenMenu(!openMenu)}>
                 <FontAwesomeIcon icon={openMenu ? faTimes : faBars} style={{ color: "#d4d6d8" }} className=" translate-x-0" />
             </div>
-            <div className={`flex flex-row w-36 bsh absolute top-20 right-32 transition-all duration-300 ${openMenu ? "opacity-100 mt-6" : "opacity-0 mt-0"}`}>
-                <div className="w-32 flex items-center justify-around">
-                    <FontAwesomeIcon icon={faUser} style={{ color: "#d4d6d8" }} />
+            <div className={`flex flex-row w-[300px] bg-white  bsh absolute top-20 z-10 transition-all duration-300 ${openMenu ? "opacity-100 mt-6" : "opacity-0 mt-0"}`}>
+                <div className="w-[300px] h-24 flex flex-col items-center justify-center ">
                     <p>About</p>
+                    <p>Contact</p>
                 </div>
             </div>
         </div>

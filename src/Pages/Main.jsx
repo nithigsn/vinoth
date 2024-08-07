@@ -31,9 +31,9 @@ export default function Main() {
 
         <div className="flex flex-col h-full w-full  items-center justify-center ">
 
-            <div className="flex flex-col w-[60vw] h-full justify-around ">
+            <div className="flex flex-col w-[90vw] h-full justify-around items-center ">
 
-                <div className=" flex flex-col items-center justify-center w-[60vw] h-[400px] ">
+                <div className=" flex flex-col items-center justify-center w-[90vw] h-[400px] ">
                     <h1 className="text-6xl text-center">Hi,I'm Vinoth.</h1>
 
                     <div className="flex items-center ">
@@ -50,21 +50,21 @@ export default function Main() {
 
                 {/* -------------------------------------------------Box 1------------------------------------- */}
 
-                <div className="box w-[60vw] h-[400px] flex cursor-pointer   rounded-s" data-aos="fade-right">
+                <div className="box w-[90vw] h-[400px] flex  cursor-pointer rounded-s" data-aos="fade-right">
 
-                    <div className="flex flex-col justify-center items-center w-[30vw] h-[400px] ">
-                        <div className="flex flex-col h-[400px] w-[25vw] items-start justify-evenly">
+                    <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] ">
+                        <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly">
                             <div>
-                                <h1 className="text-4xl ">Indian Weddings</h1>
-                                <p>Over the years worked with lot of Indian clients
+                                <h1 className="text-lg  font-bold">Indian Weddings</h1>
+                                <p className="text-sm">Over the years worked with lot of Indian clients
                                     for indian style weddings.
                                 </p>
                             </div>
 
-                            <div className="btn h-[50px] w-[200px] bg-white rounded-md flex items-center  justify-evenly">
+                            <div className="btn h-[50px] w-[100px] bg-white rounded-md flex items-center justify-evenly">
 
 
-                                <button className=" " onClick={handlenavigateHindu}>Click Here </button>
+                                <button className="text-sm font-medium " onClick={handlenavigateHindu}>Click Here </button>
                                 <i className="fa-solid fa-arrow-right" style={{ color: "#d4d6d8" }}></i>
 
                             </div>
@@ -73,12 +73,12 @@ export default function Main() {
 
                     </div>
 
-                    <div className="innerbox flex flex-col h-[400px] gap-2 ">
+                    <div className="innerbox w-[45vw] flex flex-col h-[400px] gap-2 ">
 
-                        <div className="w-[30vw] h-[200px] hi-1 rounded-sm"></div>
-                        <div className="flex w-[30vw] h-[200px] gap-2">
-                            <div className="w-[15vw]  hi-2 rounded-sm"></div>
-                            <div className="hi-3 w-[15vw] rounded-sm"></div>
+                        <div className="w-[45vw] h-[200px] hi-1 rounded-sm"></div>
+                        <div className="flex w-[45vw] h-[200px] gap-2">
+                            <div className="w-[22.5vw]  hi-2 rounded-sm"></div>
+                            <div className="hi-3 w-[22.5vw] rounded-sm"></div>
                         </div>
                     </div>
 
@@ -86,23 +86,22 @@ export default function Main() {
 
 
                 {/* -------------------------------------------------Box 2------------------------------------- */}
-                <div className="box w-[60vw] h-[400px] flex mt-16 rounded-sm cursor-pointer " data-aos="fade-right">
 
+                <div className="box w-[90vw] h-[400px] flex  cursor-pointer rounded-s" data-aos="fade-right">
 
-                    <div className="flex flex-col justify-center items-center w-[30vw] h-[400px] ">
-
-                        <div className="flex flex-col h-[400px] w-[25vw] items-start justify-evenly">
+                    <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] ">
+                        <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly">
                             <div>
-                                <h1 className="text-4xl ">Country Weddings</h1>
-                                <p >Over the years worked with lot of Indian clients
+                                <h1 className="text-lg  font-bold">Indian Weddings</h1>
+                                <p className="text-sm">Over the years worked with lot of Indian clients
                                     for indian style weddings.
                                 </p>
                             </div>
 
-                            <div className="btn h-[50px] w-[200px] bg-white rounded-md flex items-center  justify-evenly">
+                            <div className="btn h-[50px] w-[100px] bg-white rounded-md flex items-center justify-evenly">
 
 
-                                <button className=" " onClick={() => navigate('/hindu')}>Click Here </button>
+                                <button className="text-sm font-medium " onClick={handlenavigateHindu}>Click Here </button>
                                 <i className="fa-solid fa-arrow-right" style={{ color: "#d4d6d8" }}></i>
 
                             </div>
@@ -111,40 +110,36 @@ export default function Main() {
 
                     </div>
 
-                    <div className=" inner-2 flex  h-[400px] gap-2 ">
-                        <div className="w-[15vw] h-[400px] hi-2 rounded-sm">
+                    <div className="innerbox w-[45vw] flex flex-col h-[400px] gap-2 ">
+
+                        <div className="w-[45vw] h-[200px] hi-1 rounded-sm"></div>
+                        <div className="flex w-[45vw] h-[200px] gap-2">
+                            <div className="w-[22.5vw]  hi-2 rounded-sm"></div>
+                            <div className="hi-3 w-[22.5vw] rounded-sm"></div>
                         </div>
-                        <div className="flex flex-col w-[15vw] h-[400px] gap-2 ">
-                            <div className="h-[200px] w-[15vw] hi-1"></div>
-                            <div className="h-[200px] w-[15vw] hi-3"></div>
-                        </div>
-
-
-
                     </div>
 
                 </div>
-
 
                 {/* -------------------------------------------------Box 3------------------------------------- */}
 
 
-                <div className="box w-[60vw] h-[400px] flex mt-16 rounded-sm cursor-pointer " data-aos="fade-right">
+              
+                <div className="box w-[90vw] h-[400px] flex  cursor-pointer rounded-s" data-aos="fade-right">
 
-                    <div className="flex flex-col justify-center items-center w-[30vw] h-[400px] ">
-
-                        <div className="flex flex-col h-[400px] w-[25vw] items-start justify-evenly">
+                    <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] ">
+                        <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly">
                             <div>
-                                <h1 className="text-4xl ">Events</h1>
-                                <p>Over the years worked with lot of Indian clients
+                                <h1 className="text-lg  font-bold">Indian Weddings</h1>
+                                <p className="text-sm">Over the years worked with lot of Indian clients
                                     for indian style weddings.
                                 </p>
                             </div>
 
-                            <div className="btn h-[50px] w-[200px] bg-white rounded-md flex items-center  justify-evenly">
+                            <div className="btn h-[50px] w-[100px] bg-white rounded-md flex items-center justify-evenly">
 
 
-                                <button className=" " onClick={() => navigate('/hindu')}>Click Here </button>
+                                <button className="text-sm font-medium " onClick={handlenavigateHindu}>Click Here </button>
                                 <i className="fa-solid fa-arrow-right" style={{ color: "#d4d6d8" }}></i>
 
                             </div>
@@ -153,38 +148,34 @@ export default function Main() {
 
                     </div>
 
-                    <div className=" inner-two flex  h-[400px] gap-2 ">
-                        <div className="w-[15vw] h-[400px] hi-2 rounded-sm">
-                        </div>
-                        <div className="flex flex-col w-[15vw] h-[400px] gap-2 ">
-                            <div className="h-[200px] w-[15vw] hi-1"></div>
-                            <div className="h-[200px] w-[15vw] hi-3"></div>
-                        </div>
+                    <div className="innerbox w-[45vw] flex flex-col h-[400px] gap-2 ">
 
+                        <div className="w-[45vw] h-[200px] hi-1 rounded-sm"></div>
+                        <div className="flex w-[45vw] h-[200px] gap-2">
+                            <div className="w-[22.5vw]  hi-2 rounded-sm"></div>
+                            <div className="hi-3 w-[22.5vw] rounded-sm"></div>
+                        </div>
                     </div>
 
                 </div>
-
-
 
                 {/* -------------------------------------------------Box 4------------------------------------- */}
-                <div className="box w-[60vw] h-[400px] flex mt-16 rounded-sm cursor-pointer " data-aos="fade-right"
-                >
+                
+                <div className="box w-[90vw] h-[400px] flex  cursor-pointer rounded-s" data-aos="fade-right">
 
-                    <div className="flex flex-col justify-center items-center w-[30vw] h-[400px] ">
-
-                        <div className="flex flex-col h-[400px] w-[25vw] items-start justify-evenly">
+                    <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] ">
+                        <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly">
                             <div>
-                                <h1 className="text-4xl ">Concerts</h1>
-                                <p>Over the years worked with lot of Indian clients
+                                <h1 className="text-lg  font-bold">Indian Weddings</h1>
+                                <p className="text-sm">Over the years worked with lot of Indian clients
                                     for indian style weddings.
                                 </p>
                             </div>
 
-                            <div className="btn h-[50px] w-[200px] bg-white rounded-md flex items-center  justify-evenly">
+                            <div className="btn h-[50px] w-[100px] bg-white rounded-md flex items-center justify-evenly">
 
 
-                                <button className=" " onClick={() => navigate('/hindu')}>Click Here </button>
+                                <button className="text-sm font-medium " onClick={handlenavigateHindu}>Click Here </button>
                                 <i className="fa-solid fa-arrow-right" style={{ color: "#d4d6d8" }}></i>
 
                             </div>
@@ -193,20 +184,16 @@ export default function Main() {
 
                     </div>
 
-                    <div className=" iner-2 flex  h-[400px] gap-2 ">
-                        <div className="w-[15vw] h-[400px] hi-2 rounded-sm">
-                        </div>
-                        <div className="flex flex-col w-[15vw] h-[400px] gap-2 ">
-                            <div className="h-[200px] w-[15vw] hi-1"></div>
-                            <div className="h-[200px] w-[15vw] hi-3"></div>
-                        </div>
+                    <div className="innerbox w-[45vw] flex flex-col h-[400px] gap-2 ">
 
+                        <div className="w-[45vw] h-[200px] hi-1 rounded-sm"></div>
+                        <div className="flex w-[45vw] h-[200px] gap-2">
+                            <div className="w-[22.5vw]  hi-2 rounded-sm"></div>
+                            <div className="hi-3 w-[22.5vw] rounded-sm"></div>
+                        </div>
                     </div>
 
                 </div>
-
-
-
 
 
             </div>

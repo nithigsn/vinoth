@@ -44,25 +44,4 @@ body {
 }
 
 
-@media screen and (max-width:428px) {
- .box{
-  flex-direction: column;
-  width: 100%;
- }
-  .innerbox{
-    flex-direction: row;
-    width: 100%;
 
-  }
-  .indian{
-    flex-direction: column;
-    gap: 4px 4px;
-    height: 100%;
-    width: 100vw;
-
-  }
-  .indian-inner{
-    height: 200px;
-    width: 100vw;
-  }
-}
