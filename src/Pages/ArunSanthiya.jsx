@@ -22,7 +22,7 @@ export default function ArunSanthiya() {
 
             <div className="w-[65vw] h-full flex flex-gap-1 mt-8">
 
-                <div className="flex flex-col w-[32.5vw] h-[60vh]  gap-1">
+                <div className="flex flex-col w-[32.5vw] h-[60vh]  gap-1 ">
                     <div className="h-[20vh] w-[32.5vw]  flex gap-1">
 
                         <div className="h-[20vh] w-[22vw] bg-land-1 small" data-aos="fade-right"  >

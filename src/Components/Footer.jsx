@@ -17,7 +17,7 @@ export default function Footer() {
 
            <div className="flex flex-col items-center ">
            <p className="text-sm">Copyright &copy; Vinoth Jeyasabesan. All Rights Reserved</p>
-           <p className="text-sm">Made with <i className="fa-solid fa-heart" style={{"color": "#ff0000"}}></i> by Nithish Kumar</p>
+           <p className="text-sm sm:text-xs">Made with <i className="fa-solid fa-heart" style={{"color": "#ff0000"}}></i> by Nithish Kumar</p>
            </div>
 
         </div>

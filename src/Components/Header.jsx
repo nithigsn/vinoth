@@ -1,6 +1,6 @@
 import React, { useState, useContext } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faUser, faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
+import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
 import { userContext } from "../App";
 import { useNavigate } from "react-router-dom";
 
@@ -38,8 +38,8 @@ export default function Header() {
                 }
             </div>
             <div className="h-[60px] w-[186px] bg-[#ffffff] bsh rounded-[30px] flex items-center justify-evenly">
-                <div className={`h-12 w-20 rounded-[20px] text-center text-sm flex items-center justify-center ${tab === home ? "currentTab" : "noTab"}`} onClick={()=>navigate('/')}>Work</div>
-                <div className={`h-12 w-20 rounded-[20px] text-center text-sm flex items-center justify-center ${tab}`} onCanPlay={handleTab}>Play</div>
+                <div className={`h-12 w-20 rounded-[20px] text-center text-sm flex items-center justify-center sm:text-base  ${tab === home ? "currentTab" : "noTab"}`} onClick={()=>navigate('/')}>Work</div>
+                <div className={`h-12 w-20 rounded-[20px] text-center text-sm flex items-center justify-center sm:text-base  ${tab}`} onCanPlay={handleTab}>Play</div>
             </div>
             <div className="h-[60px] w-[60px] rounded-[50%] bg-[#ffffff] bsh flex items-center justify-center" onClick={() => setOpenMenu(!openMenu)}>
                 <FontAwesomeIcon icon={openMenu ? faTimes : faBars} style={{ color: "#d4d6d8" }} className=" translate-x-0" />
