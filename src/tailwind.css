@@ -19,6 +19,9 @@
         border: 1px solid black;
     }
 
+
+    /* Home Page Images */
+
     .hi-1 {
         background-image: url(../public/Assets/images/ArunSanthiya/w-l.jpg);
         background-size: cover;
@@ -50,6 +53,8 @@
         background-size: cover;
     }
 
+
+    /* Indian  */
     .bg-ver {
         background-image: url(../public/Assets/images/ArunSanthiya/VIN_7792.jpg);
         background-size: cover;
