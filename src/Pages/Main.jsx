@@ -126,8 +126,6 @@ export default function Main() {
 
                 {/* -------------------------------------------------Box 3------------------------------------- */}
 
-
-
                 <div className="box w-[90vw] h-[400px] flex justify-center cursor-pointer rounded-s mt-10 sm:w-[70vw]" data-aos="fade-right">
 
                     <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] sm:w-[35vw]">

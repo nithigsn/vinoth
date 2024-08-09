@@ -57,7 +57,7 @@
     }
 
     .bg-ver2 {
-        background-image: url(../public/Assets/images/ArunSanthiya/VIN_7619.jpg);
+        background-image: url(../public/Assets/images/Aashif/ver-4.jpg);
         background-size: cover;
         border-radius: 4px;
         background-repeat: no-repeat;
@@ -71,7 +71,7 @@
     }
 
     .bg-sq1 {
-        background-image: url(../public/Assets/images/ArunSanthiya/VIN_7664.jpg);
+        background-image: url(../public/Assets/images/fisther/f-ver.jpg);
         background-size: cover;
         border-radius: 4px;
     }
@@ -104,6 +104,14 @@
         background-image: url(../public/Assets/images/w-3.jpg);
         background-size: cover;
         border-radius: 4px;
+    }
+
+    .fi-bg{
+        background-image: url(../public/Assets/images/fisther/land.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+       
     }
    
 }
