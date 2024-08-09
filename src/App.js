@@ -26,16 +26,26 @@ function App() {
   //   localStorage.setItem('home', JSON.stringify(home));
   // }, [home]);
 
+
+  const [tab, setTab] = useState(() => {
+    const savedTab = localStorage.getItem('tab');
+    return savedTab !== null ? JSON.parse(savedTab) : "home"
+  })
+
+  useEffect(() => {
+    localStorage.setItem('tab', JSON.stringify(tab));
+  }, [tab])
+
   return (
 
-    <userContext.Provider value={{ home, setHome }}>
+    <userContext.Provider value={{ home, setHome, tab, setTab }}>
       <BrowserRouter>
         <Header />
         <Routes>
           <Route path='/' element={<Main />} />
           <Route path='/hindu' element={<IndianWeddings />} />
           <Route path="/hindu/arunsanthiya" element={<ArunSanthiya />} />
-          <Route path="/hindu/fisthervanissa" element={<FistherVanissa/>}/>
+          <Route path="/hindu/fisthervanissa" element={<FistherVanissa />} />
         </Routes>
         <Footer />
       </BrowserRouter>
