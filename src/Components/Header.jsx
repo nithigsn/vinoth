@@ -1,4 +1,4 @@
-import React, { useState, useContext, useEffect } from "react";
+import React, { useState, useContext } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
 import { userContext } from "../App";
@@ -8,13 +8,13 @@ export default function Header() {
 
     const [openMenu, setOpenMenu] = useState(false);
 
-    const { home, setHome ,tab, setTab } = useContext(userContext);
+    const { home, tab, setTab } = useContext(userContext);
 
 
 
 
     const navigate = useNavigate();
-    
+
     const location = useLocation();
 
 

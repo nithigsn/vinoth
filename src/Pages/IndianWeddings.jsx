@@ -16,6 +16,7 @@ export default function IndianWeddings() {
         AOS.init({ duration: 2000 });
 
     }, [])
+    
     return (
 
         <div className="w-full h-full flex flex-col items-center justify-center ">
