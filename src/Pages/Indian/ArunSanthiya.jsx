@@ -23,12 +23,12 @@ export default function ArunSanthiya() {
 
             <h3>Pre Wedding Shoots</h3>
 
-            <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[65vw] justify-center">
+            <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center">
 
 
                 <div className="flex  flex-col  gap-y-1">
 
-                    <div className='flex gap-x-1 '>
+                    <div className='flex gap-1   '>
 
                         <div >
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859292/VIN_7670_sjvgg0.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' />
@@ -36,39 +36,38 @@ export default function ArunSanthiya() {
                         <div >
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7619_idna8z.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' />
                         </div>
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7654_aiotss.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] hidden sm:block ' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7654_aiotss.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' />
 
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859293/VIN_7709_c8d61i.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] hidden lg:block ' />
-
-
-                    </div>
-
-                    <div className="flex gap-1 justify-between">
-
-                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859294/VIN_7782_ajuke1.jpg" alt="" className='w-full h-[250px] sm:h-[350px] lg:w-[49.1%] lg:h-[350px]' />
-                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926513/VIN_7674_bq7sza.jpg" alt="" className='w-full h-[250px] lg:w-[50.5%] lg:h-[350px] hidden lg:block' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859293/VIN_7709_c8d61i.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' />
 
 
                     </div>
 
-                    <div className="flex gap-x-1">
+                    <div className="flex gap-1">
 
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926509/VIN_7629_q4yozn.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[250px] sm:w-[171px] lg:h-[500px] lg:w-[330px]' />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859291/VIN_7664_xtdp6r.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[250px] sm:w-[171px] lg:h-[500px] lg:w-[330px]' />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859293/VIN_7744_rj6kef.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[250px] sm:w-[171px] lg:h-[500px] lg:w-[330px]' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859294/VIN_7782_ajuke1.jpg" alt="" className='w-full h-[250px] sm:h-[350px] lg:w-[504px] lg:h-[350px]' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926513/VIN_7674_bq7sza.jpg" alt="" className='w-full h-[250px] lg:h-[350px] lg:w-[504px] ' />
 
-
-                    </div>
-                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859294/VIN_7769_szw1r6.jpg" alt="" className='' />
-                    <div className='flex gap-x-1 lg:hidden' >
-
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7654_aiotss.jpg" alt="" className='w-[45vw] h-[300px] sm:h-[350px] ' />
-
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859293/VIN_7709_c8d61i.jpg" alt="" className='w-[45vw] h-[300px] sm:h-[350px] ' />
 
                     </div>
 
-                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926515/VIN_7931_bmga5u.jpg" alt="" className='' />
+                    <div className="flex gap-x-1 ">
+
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926509/VIN_7629_q4yozn.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[250px] sm:w-[171px] lg:h-[500px] lg:w-[337px]' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859291/VIN_7664_xtdp6r.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[250px] sm:w-[171px] lg:h-[500px] lg:w-[337px]' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859293/VIN_7744_rj6kef.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[250px] sm:w-[171px] lg:h-[500px] lg:w-[337px]' />
+
+
+                    </div>
+
+                    <div className='flex flex-col gap-1 lg:flex-row'>
+
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859294/VIN_7769_szw1r6.jpg" alt="" className='lg:w-[504px]' />
+
+
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926515/VIN_7931_bmga5u.jpg" alt="" className='lg:w-[504px]' />
+
+                    </div>
 
                     <div className='flex gap-x-1 sm:justify-around'>
                         <div className='w-[189.5px] h-[300px]'>
@@ -92,7 +91,7 @@ export default function ArunSanthiya() {
                 {/* Box 2 */}
 
 
-                <div className='w-[90vw] h-full flex flex-col mt-8'>
+                <div className='w-[90vw] h-full flex flex-col mt-8 lg:w-[66vw]'>
 
                     <div className='flex flex-col gap-y-1'>
 
@@ -106,14 +105,19 @@ export default function ArunSanthiya() {
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926515/IMG_0107_jl0hu6.jpg" alt="" />
 
-                        <div className='flex flex-col gap-y-1'>
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859290/9W8A7079_twmyje.jpg" alt="" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859290/9W8A7085_thgoyq.jpg" alt="" />
+                        <div className='flex flex-col gap-1 lg:flex-row '>
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859290/9W8A7079_twmyje.jpg" alt="" className='lg:w-[497px]' />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859290/9W8A7085_thgoyq.jpg" alt="" className='lg:w-[497px]' />
+                        </div>
+
+                        <div className='flex flex-col gap-1 lg:flex-row '>
+
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859288/9W8A6903_zff19k.jpg" alt="" className='lg:w-[497px]' />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926505/IMG_0081_luapih.jpg" alt="" className='lg:w-[497px]' />
                         </div>
 
 
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859288/9W8A6903_zff19k.jpg" alt="" srcset="" />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926505/IMG_0081_luapih.jpg" alt="" />
+
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926531/9W8A7134_ovvsgc.jpg" alt="" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926506/IMG_0102_whyrvr.jpg" alt="" />
 
@@ -145,14 +149,14 @@ export default function ArunSanthiya() {
 
 
 
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926530/9W8A7786_sxjhqg.jpg" alt="" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926530/9W8A7786_sxjhqg.jpg" alt="" className='lg:w-2/4' />
 
 
                         <div className='flex flex-col gap-y-1 lg:flex-row'>
 
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/a_hflip/v1724926502/9W8A8543_lfr4q7.jpg" alt="" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/a_hflip/v1724926502/9W8A8543_lfr4q7.jpg" alt="" className='lg:w-2/4 ' />
 
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926508/9W8A8551_ozab1g.jpg" alt="" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926508/9W8A8551_ozab1g.jpg" alt="" className='lg:w-2/4 ' />
 
 
                         </div>
