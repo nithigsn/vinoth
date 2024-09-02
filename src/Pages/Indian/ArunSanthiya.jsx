@@ -25,14 +25,12 @@ export default function ArunSanthiya() {
 
             <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center">
 
-
                 <div className="flex  flex-col  gap-y-1 ">
 
-                    <div className='flex gap-1 flex-wrap   '>
+                    <div className='flex gap-1   '>
 
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859292/VIN_7670_sjvgg0.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' />
-
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7619_idna8z.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' />
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7654_aiotss.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' />
@@ -95,7 +93,7 @@ export default function ArunSanthiya() {
 
                     <div className='flex flex-col gap-y-1'>
 
-                        <div className='flex gap-x-1 lg:justify-center'>
+                        <div className='flex gap-x-1 flex-wrap lg:justify-center'>
 
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926526/9W8A6637_xvzmhu.jpg" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' alt="" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926528/9W8A7176_z5u5e1.jpg" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' alt="" />
@@ -115,7 +113,7 @@ export default function ArunSanthiya() {
                         </div>
 
 
-                        <div className='flex gap-x-1 lg:justify-center'>
+                        <div className='flex gap-x-1 flex-wrap lg:justify-center'>
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926506/IMG_0097_omjrer.jpg" alt="" className=' w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px]' />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926525/9W8A6688_urzovm.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px]' />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926519/9W8A6286_rczivh.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px]' />
