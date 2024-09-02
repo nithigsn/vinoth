@@ -27,14 +27,12 @@ export default function ArunSanthiya() {
 
                 <div className="flex  flex-col  gap-y-1 ">
 
-                    <div className='flex gap-1   '>
+                    <div className='flex gap-1 flex-wrap  '>
 
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859292/VIN_7670_sjvgg0.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7619_idna8z.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' />
-
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7654_aiotss.jpg" alt="" className='w-[189.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' />
-
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859293/VIN_7709_c8d61i.jpg" alt="" className='w-[189.5px] h-[300px] sm:hidden md:block lg:w-[250px] lg:h-[400px] ' />
 
 
