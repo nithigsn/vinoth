@@ -27,13 +27,13 @@ export default function ArunSanthiya() {
 
                 <div className="flex  flex-col  gap-y-1 ">
 
-                    <div className='flex gap-[2px] flex-wrap sm:justify-between   '>
+                    <div className='flex gap-[3px] flex-wrap    '>
 
 
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859292/VIN_7670_sjvgg0.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] '  data-aos="zoom-in"/>
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7619_idna8z.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] '  data-aos="zoom-in"/>
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7654_aiotss.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] '  data-aos="zoom-in"/>
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859293/VIN_7709_c8d61i.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] '  data-aos="zoom-in"/>
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859292/VIN_7670_sjvgg0.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] '  data-aos="zoom-in"/>
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7619_idna8z.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] '  data-aos="zoom-in"/>
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859289/VIN_7654_aiotss.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] '  data-aos="zoom-in"/>
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724859293/VIN_7709_c8d61i.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] '  data-aos="zoom-in"/>
 
 
                     </div>
