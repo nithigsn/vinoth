@@ -74,10 +74,10 @@ export default function Main() {
 
                     </div>
 
-                    <div className=" w-[45vw] flex flex-col h-[400px] gap-2 sm:w-[35vw]">
+                    <div className=" w-[45vw] flex flex-col h-[400px] gap-1 sm:w-[35vw]">
 
                         <div className="w-[45vw] h-[200px] hi-1 rounded-sm sm:w-[35vw]"></div>
-                        <div className="flex w-[45vw] h-[200px] gap-2 sm:w-[35vw]">
+                        <div className="flex w-[45vw] h-[200px] gap-1 sm:w-[35vw]">
                             <div className="w-[22.5vw]  hi-2 rounded-sm"></div>
                             <div className="hi-3 w-[22.5vw] rounded-sm"></div>
                         </div>
@@ -94,7 +94,7 @@ export default function Main() {
 
                         <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly sm: ">
                             <div>
-                                <h1 className="text-lg  font-bold sm:text-2xl lg:text-3xl">Indian Weddings</h1>
+                                <h1 className="text-lg  font-bold sm:text-2xl lg:text-3xl">Foreign Weddings</h1>
                                 <p className="text-sm">Over the years worked with lot of Indian clients
                                     for indian style weddings.
                                 </p>
@@ -112,10 +112,10 @@ export default function Main() {
 
                     </div>
 
-                    <div className=" w-[45vw] flex flex-col h-[400px] gap-2 sm:w-[35vw]">
+                    <div className=" w-[45vw] flex flex-col h-[400px] gap-1 sm:w-[35vw]">
 
                         <div className="w-[45vw] h-[200px] hi-1 rounded-sm sm:w-[35vw]"></div>
-                        <div className="flex w-[45vw] h-[200px] gap-2 sm:w-[35vw]">
+                        <div className="flex w-[45vw] h-[200px] gap-1 sm:w-[35vw]">
                             <div className="w-[22.5vw]  hi-2 rounded-sm"></div>
                             <div className="hi-3 w-[22.5vw] rounded-sm"></div>
                         </div>
@@ -130,9 +130,9 @@ export default function Main() {
 
                     <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] sm:w-[35vw]">
 
-                        <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly sm: ">
+                        <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly">
                             <div>
-                                <h1 className="text-lg  font-bold sm:text-2xl lg:text-3xl">Indian Weddings</h1>
+                                <h1 className="text-lg  font-bold sm:text-2xl lg:text-3xl">Events</h1>
                                 <p className="text-sm">Over the years worked with lot of Indian clients
                                     for indian style weddings.
                                 </p>
@@ -150,10 +150,10 @@ export default function Main() {
 
                     </div>
 
-                    <div className=" w-[45vw] flex flex-col h-[400px] gap-2 sm:w-[35vw]">
+                    <div className=" w-[45vw] flex flex-col h-[400px] gap-1 sm:w-[35vw]">
 
                         <div className="w-[45vw] h-[200px] hi-1 rounded-sm sm:w-[35vw]"></div>
-                        <div className="flex w-[45vw] h-[200px] gap-2 sm:w-[35vw]">
+                        <div className="flex w-[45vw] h-[200px] gap-1 sm:w-[35vw]">
                             <div className="w-[22.5vw]  hi-2 rounded-sm"></div>
                             <div className="hi-3 w-[22.5vw] rounded-sm"></div>
                         </div>
@@ -170,7 +170,7 @@ export default function Main() {
 
                         <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly sm: ">
                             <div>
-                                <h1 className="text-lg  font-bold sm:text-2xl lg:text-3xl">Indian Weddings</h1>
+                                <h1 className="text-lg  font-bold sm:text-2xl lg:text-3xl">Concerts</h1>
                                 <p className="text-sm">Over the years worked with lot of Indian clients
                                     for indian style weddings.
                                 </p>
@@ -188,10 +188,10 @@ export default function Main() {
 
                     </div>
 
-                    <div className=" w-[45vw] flex flex-col h-[400px] gap-2 sm:w-[35vw]">
+                    <div className=" w-[45vw] flex flex-col h-[400px] gap-1 sm:w-[35vw]">
 
                         <div className="w-[45vw] h-[200px] hi-1 rounded-sm sm:w-[35vw]"></div>
-                        <div className="flex w-[45vw] h-[200px] gap-2 sm:w-[35vw]">
+                        <div className="flex w-[45vw] h-[200px] gap-1 sm:w-[35vw]">
                             <div className="w-[22.5vw]  hi-2 rounded-sm"></div>
                             <div className="hi-3 w-[22.5vw] rounded-sm"></div>
                         </div>
