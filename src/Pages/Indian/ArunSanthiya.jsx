@@ -120,6 +120,7 @@ export default function ArunSanthiya() {
 
 
                         <div className='flex flex-col gap-[3px] lg:flex-row lg:flex-wrap'>
+
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/c_fill,ar_16:9/v1724926519/9W8A6190_rm5fju.jpg" alt="" className='lg:w-[504px]' data-aos="fade-right" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/c_fill,ar_16:9/v1724926506/IMG_9880_tqrkks.jpg" alt="" className='lg:w-[504px]' data-aos="fade-left" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725268292/IMG_9852_qmpz6z.jpg"                alt="" className='lg:w-[504px]' data-aos="fade-right" />
@@ -131,34 +132,9 @@ export default function ArunSanthiya() {
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926508/9W8A8551_ozab1g.jpg"                alt="" className='lg:w-[504px]' data-aos='fade-right' />
 
                         </div>
-
-
-
                     </div>
-
-                </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                </div>               {/* Box-2 Ends*/}
             </div>
-
-
-
         </div>
     );
 }

@@ -16,6 +16,11 @@ img{
   background-size: cover;
   border-radius: 2px;
 }
+.contain{
+  background-size: contain;
+}
+
+
 .he-wed{
   font-family: Mrs Saint Delafield;
 }

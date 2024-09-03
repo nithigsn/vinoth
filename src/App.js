@@ -6,6 +6,7 @@ import Main from "./Pages/Main";
 import IndianWeddings from "./Pages/IndianWeddings";
 import ArunSanthiya from "./Pages/Indian/ArunSanthiya";
 import FistherVanissa from "./Pages/Indian/FishtherVanissa";
+import AashifSangeetha from "./Pages/Indian/AashifSangeetha";
 
 
 
@@ -46,6 +47,8 @@ function App() {
           <Route path='/hindu' element={<IndianWeddings />} />
           <Route path="/hindu/arunsanthiya" element={<ArunSanthiya />} />
           <Route path="/hindu/fisthervanissa" element={<FistherVanissa />} />
+          <Route path="/hindu/aashifsangeetha" element={<AashifSangeetha/>} />
+
         </Routes>
         <Footer />
       </BrowserRouter>
