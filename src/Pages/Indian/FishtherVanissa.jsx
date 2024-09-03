@@ -49,8 +49,8 @@ export default function FistherVanissa() {
                         </div>
 
                         <div className='flex flex-col gap-y-1'>
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/c_crop,w_2736,h_843,x_0,y_504/v1725348371/6R6A8278_n9agcq.jpg" alt="" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/t_wide/v1725348370/0A1A9969_qngjwm.jpg" alt="" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/c_crop,w_2736,h_843,x_0,y_504/v1725348371/6R6A8278_n9agcq.jpg" alt="" data-aos='fade-right' />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/t_wide/v1725348370/0A1A9969_qngjwm.jpg"                        alt="" data-aos='fade-left' />
 
 
                         </div>
@@ -70,14 +70,14 @@ export default function FistherVanissa() {
 
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348406/VIN_9155_ytvsyv.jpg" alt="" className='w-full h-[250px] sm:h-[350px] md:h-[450px] lg:w-[504px] lg:h-[350px]' data-aos="fade-right" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348404/VIN_9217_qqguan.jpg" alt="" className='w-full h-[250px] sm:h-[350px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-left" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348357/0A1A0244_egzp1s.jpg" alt="" className='w-full h-[250px] sm:h-[350px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-left" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348357/0A1A0244_egzp1s.jpg" alt="" className='w-full h-[250px] sm:h-[350px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-right" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348360/0A1A0225_glehl4.jpg" alt="" className='w-full h-[250px] sm:h-[350px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-left" />
 
 
                         </div>
 
                         <div className='flex flex-col gap-y-1'>
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/c_crop,w_2564,h_845,x_0,y_0/v1725348393/6R6A9458_st1vlj.jpg" alt="" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/c_crop,w_2564,h_845,x_0,y_0/v1725348393/6R6A9458_st1vlj.jpg" alt="" data-aos='zoom-in'/>
 
 
                         </div>
@@ -123,19 +123,19 @@ export default function FistherVanissa() {
 
 
                         <div className='flex flex-col gap-y-1'>
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/t_wide/v1725348382/6R6A8825_xpvmt6.jpg" alt="" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/t_wide/v1725348391/6R6A9493_uvzsoa.jpg" alt="" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/t_wide/v1725348382/6R6A8825_xpvmt6.jpg" alt="" data-aos='fade-right' />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/t_wide/v1725348391/6R6A9493_uvzsoa.jpg" alt="" data-aos='fade-left' />
 
 
                         </div>
 
 
-                        <div className='flex gap-[3px] flex-wrap    '>
+                        <div className='flex gap-[3px] flex-wrap'>
 
 
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348389/6R6A9170_ashaeh.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348409/VIN_9393_faaho1.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348398/IMG_6419_bjbczc.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348389/6R6A9170_ashaeh.jpg"                  alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348409/VIN_9393_faaho1.jpg"                  alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348398/IMG_6419_bjbczc.jpg"                  alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348400/PHOTO-2024-04-17-19-52-13_ewd8uh.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[254px] lg:h-[400px] ' data-aos="zoom-in" />
 
 
