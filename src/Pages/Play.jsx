@@ -7,7 +7,7 @@ function Play() {
             <div className="flex flex-col w-[60vw] h-full gap-y-5">
 
 
-                <div className='flex items-center justify-center w-full h-[60vh] mt-10'>
+                <div className='flex items-center justify-center w-full lg:h-[60vh] mt-10'>
 
 
 
@@ -26,7 +26,7 @@ function Play() {
 
 
                 <div className=" flex flex-col gap-y-2 items-center justify-center w-[60vw] h-[400px] ">
-                    <h1 className="text-5xl text-center sm:text-6xl gtext">Hi,I'm Vinoth.</h1>
+                    <h1 className="text-3xl text-center sm:text-6xl gtext">Hi,I'm Vinoth.</h1>
 
                     <div className="flex items-center ">
                         <p className="text-sm"> <i className="fa-solid fa-location-dot" style={{ color: "#d4d6d8" }} ></i> Paris,France</p>
@@ -38,9 +38,9 @@ function Play() {
                 </div>
 
 
-                <iframe width="921" height="400" src="https://www.youtube.com/embed/6TKhOG0oAgY?si=Fq7K09rBEA_3KyK8" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+                <iframe className=' lg:h-[320px] lg:w-[900px]' src="https://www.youtube.com/embed/6TKhOG0oAgY?si=Fq7K09rBEA_3KyK8" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
-                <iframe width="921" height="400" src="https://www.youtube.com/embed/6WxwIn3Tu1o?si=XRvEsck1ayFYarqN" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+                <iframe className=' lg:h-[320px] lg:w-[900px]' src="https://www.youtube.com/embed/6WxwIn3Tu1o?si=XRvEsck1ayFYarqN" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
 
 
