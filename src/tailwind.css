@@ -29,6 +29,10 @@
 
     }
 
+    .z9999{
+        z-index: 9999;
+    }
+
 
     /* Home Page Images */
 

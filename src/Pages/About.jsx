@@ -7,6 +7,8 @@ function About() {
             <div className="flex w-[90vw] flex-col items-center lg:w-[60vw] h-full">
 
 
+
+
                 <h1 className='text-4xl'>  Hi again, I'm Vinoth.</h1>
 
                 <div className=' w-[300px] lg:w-[35vw] mt-5 text-sm '>

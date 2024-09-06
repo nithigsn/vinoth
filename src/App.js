@@ -9,6 +9,8 @@ import FistherVanissa from "./Pages/Indian/FishtherVanissa";
 import AashifSangeetha from "./Pages/Indian/AashifSangeetha";
 import About from "./Pages/About";
 import Play from "./Pages/Play";
+import Contact from "./Pages/Contact";
+import PreLoading from "./Pages/PreLoading";
 
 
 
@@ -42,6 +44,8 @@ function App() {
           <Route path='/' element={<Main />} />
           <Route path='/about' element={<About/>}/>
           <Route path='/play' element={<Play/>}/>
+          <Route path='/contact' element={<Contact/>}/>
+          <Route path='/loading' element={<PreLoading/>}/>
           <Route path='/hindu' element={<IndianWeddings />} />
           <Route path="/hindu/arunsanthiya" element={<ArunSanthiya />} />
           <Route path="/hindu/fisthervanissa" element={<FistherVanissa />} />

@@ -37,6 +37,11 @@ export default function Header() {
             navigate('/about');
 
         }
+        else if(type === 'contact'){
+            setOpenMenu(!openMenu);
+            navigate('/contact');
+
+        }
 
     }
 
@@ -65,7 +70,7 @@ export default function Header() {
                         <i className="fa-solid fa-user"></i>
                         <p className="text-sm">About</p>
                     </div>
-                    <div className="flex items-center w-20 gap-2">
+                    <div className="flex items-center w-20 gap-2" onClick={() => handleNav('contact')}>
                         <i className="fa-solid fa-address-card"></i>
                         <p className="text-sm">Contact</p>
                     </div>
