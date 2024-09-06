@@ -20,6 +20,15 @@
         background-color: #ffffff;
     }
 
+    .gtext {
+        background: #5D69CF;
+        background: linear-gradient(to right, #5D69CF 0%, #C97BCF 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    
+
+    }
+
 
     /* Home Page Images */
 

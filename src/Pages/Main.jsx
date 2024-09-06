@@ -1,9 +1,9 @@
 
-import { useContext, useEffect } from "react";
+import {  useEffect } from "react";
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 import { useNavigate } from "react-router-dom";
-import { userContext } from "../App";
+
 
 
 export default function Main() {
