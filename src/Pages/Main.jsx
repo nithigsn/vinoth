@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import { useNavigate } from "react-router-dom";
+import { json, useNavigate } from "react-router-dom";
 import PreLoading from "./PreLoading";
 
 
@@ -10,15 +10,26 @@ import PreLoading from "./PreLoading";
 export default function Main() {
 
 
-    const [isLoading, setIsLoading] = useState(true);
-
+    const [isLoading, setIsLoading] = useState(() => {
+        const loading = localStorage.getItem('isLoading');
+        // Return true if there's no saved value or the saved value is true
+        return loading === null || JSON.parse(loading) === true;
+    });
+    
     useEffect(() => {
-        setTimeout(() => {
-            setIsLoading(false);
-
-        }, 5000)
-    }, [])
-
+        const savedLoading = localStorage.getItem('isLoading');
+    
+        // If savedLoading is true (first time or while loading), start the timeout
+        if (savedLoading === null || JSON.parse(savedLoading) === true) {
+            setTimeout(() => {
+                setIsLoading(false);
+                localStorage.setItem('isLoading', JSON.stringify(false));
+            }, 4000);
+        } else {
+            console.log("Loading has already completed previously.");
+        }
+    }, []);
+    
 
 
 
@@ -47,6 +58,7 @@ export default function Main() {
 
 
             <div className="flex flex-col h-full w-full  items-center  sm:items-center  ">
+
 
 
 
