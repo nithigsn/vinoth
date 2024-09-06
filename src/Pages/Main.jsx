@@ -8,7 +8,7 @@ import { userContext } from "../App";
 
 export default function Main() {
 
-    const { home, setHome } = useContext(userContext);
+    
 
 
     useEffect(() => {
@@ -22,7 +22,7 @@ export default function Main() {
 
     function handlenavigateHindu() {
         navigate('/hindu');
-        setHome(!home);
+
 
     }
 

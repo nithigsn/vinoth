@@ -16,7 +16,8 @@
     }
 
     .currentTab {
-        border: 1px solid black;
+
+        background-color: #ffffff;
     }
 
 
@@ -111,12 +112,12 @@
         border-radius: 4px;
     }
 
-    .fi-bg{
+    .fi-bg {
         background-image: url(../public/Assets/images/fisther/land.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        
-       
+
+
     }
-   
+
 }

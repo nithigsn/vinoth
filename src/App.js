@@ -7,6 +7,8 @@ import IndianWeddings from "./Pages/IndianWeddings";
 import ArunSanthiya from "./Pages/Indian/ArunSanthiya";
 import FistherVanissa from "./Pages/Indian/FishtherVanissa";
 import AashifSangeetha from "./Pages/Indian/AashifSangeetha";
+import About from "./Pages/About";
+import Play from "./Pages/Play";
 
 
 
@@ -18,17 +20,11 @@ export const userContext = createContext();
 
 function App() {
 
-  const [home, setHome] = useState(true)
-  //   const savedHome = localStorage.getItem('home');
-  //   return savedHome !== null ? JSON.parse(savedHome) : true;
-  // });
-
-  // useEffect(() => {
-  //   localStorage.setItem('home', JSON.stringify(home));
-  // }, [home]);
+ 
 
 
   const [tab, setTab] = useState(() => {
+    
     const savedTab = localStorage.getItem('tab');
     return savedTab !== null ? JSON.parse(savedTab) : "home"
   })
@@ -39,11 +35,13 @@ function App() {
 
   return (
 
-    <userContext.Provider value={{ home, setHome, tab, setTab }}>
+    <userContext.Provider value={{  tab, setTab }}>
       <BrowserRouter>
         <Header />
         <Routes>
           <Route path='/' element={<Main />} />
+          <Route path='/about' element={<About/>}/>
+          <Route path='/play' element={<Play/>}/>
           <Route path='/hindu' element={<IndianWeddings />} />
           <Route path="/hindu/arunsanthiya" element={<ArunSanthiya />} />
           <Route path="/hindu/fisthervanissa" element={<FistherVanissa />} />
