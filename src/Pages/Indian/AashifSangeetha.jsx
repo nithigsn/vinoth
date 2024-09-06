@@ -18,10 +18,10 @@ export default function AashifSangeetha() {
         <div className="w-full h-full flex flex-col items-center  ">
 
 
-            <h1 className=' text-2xl'>Aashif Weds Sangeetha</h1>
+            <h1 className=' lg:text-4xl'>Aashif Weds Sangeetha</h1>
 
 
-            <h3>Pre Wedding Shoots</h3>
+            <h3> Wedding Shoots</h3>
 
             <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center">
 
@@ -81,6 +81,13 @@ export default function AashifSangeetha() {
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725639995/VIN_2519_eqvsk8.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px]  sm:hidden lg:block' data-aos="zoom-in" />
 
 
+
+                    </div>
+
+                    <div className='flex flex-col gap-1 lg:flex-row'>
+
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725639994/VIN_2496_vywc3z.jpg" alt="" className='lg:w-[504px]' data-aos='fade-right' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725639990/VIN_2471_fgfjwd.jpg" alt="" className='lg:w-[504px]' data-aos='fade-left' />
 
                     </div>
 
