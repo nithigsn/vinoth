@@ -11,11 +11,11 @@ function Play() {
 
 
 
-                    <div className='h-[300px] w-[260px] bg-black rounded-[25px] -z-10  '></div>
 
-                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-full w-[305px] bg-green-300 rounded-[25px] z-10' />
+                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-[150px] w-[80px] bg-black rounded-bl-[25px] rounded-tl-[25px]  -z-10' />
+                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-full    w-[130px]  rounded-[25px] z-10' />
+                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-[120px] w-[70px] rounded-br-[25px] rounded-tr-[25px] -z-10' />
 
-                    <div className='h-[350px] w-[300px] bg-yellow-300 rounded-[25px] -z-10'></div>
 
 
 

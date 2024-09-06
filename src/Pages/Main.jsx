@@ -57,8 +57,8 @@ export default function Main() {
                         <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly sm: ">
                             <div>
                                 <h1 className="text-lg  font-bold sm:text-2xl lg:text-3xl">Indian Weddings</h1>
-                                <p className="text-sm">Over the years worked with lot of Indian clients
-                                    for indian style weddings.
+                                <p className="text-sm">Over the years worked with many Indian clients
+                                    for Indian style weddings.
                                 </p>
                             </div>
 

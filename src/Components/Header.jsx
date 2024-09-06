@@ -63,11 +63,11 @@ export default function Header() {
 
                     <div className="flex items-center w-20 gap-3" onClick={() => handleNav('about')}>
                         <i className="fa-solid fa-user"></i>
-                        <p>About</p>
+                        <p className="text-sm">About</p>
                     </div>
                     <div className="flex items-center w-20 gap-2">
                         <i className="fa-solid fa-address-card"></i>
-                        <p>Contact</p>
+                        <p className="text-sm">Contact</p>
                     </div>
 
 
