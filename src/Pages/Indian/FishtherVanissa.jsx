@@ -134,8 +134,8 @@ export default function FistherVanissa() {
                         <div className='flex gap-[3px] flex-wrap justify-center'>
 
 
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348389/6R6A9170_ashaeh.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px]' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348409/VIN_9393_faaho1.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px]' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348389/6R6A9170_ashaeh.jpg" alt=""    className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px]' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689496/VIN_9386_w6dous.jpg" alt="img" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px]' data-aos='zoom-in' />
 
 
                         </div>

@@ -1,4 +1,4 @@
-import React, { useState} from "react";
+import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
 
@@ -57,7 +57,7 @@ export default function Header() {
                        ${location.pathname !== '/play' && location.pathname !== '/about' && location.pathname !== '/contact' ? "currentTab font-bold" : "noTab"}`}
                     onClick={() => handleNav('home')}
                 >
-                    Work
+                <p> Work</p>
                 </div>
                 <div className={`h-12 w-20 rounded-[20px] text-center text-sm flex items-center justify-center sm:text-base  ${location.pathname === '/play' ? "currentTab" : ""} `} onClick={() => handleNav('play')}>
                     <p className={`${location.pathname === '/play' ? "gtext font-bold" : ""}`}>Play</p> </div>
