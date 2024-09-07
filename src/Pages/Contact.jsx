@@ -21,7 +21,7 @@ function Contact() {
 
 
                     <a href="mailto:vinothyaso17@gmail.com?subject=Hello%20There" className='flex items-center gap-1'>Click to Send a Email  <i className="fa-solid fa-envelope text-2xl cursor-pointer pl-5" style={{ color: "#c7cfdb", }}></i> </a>
-                    <a href="mailto:vinothyaso17@gmail.com?subject=Hello%20There" className='flex items-center gap-1'>Checkout my Instagram <i className="fa-brands fa-instagram text-2xl cursor-pointer" style={{ color: "#c7cfdb", }}></i> </a>
+                    <a href="https://www.instagram.com/vinoth_jeyasabesan" target='blank' className='flex items-center gap-1'>Checkout my Instagram <i className="fa-brands fa-instagram text-2xl cursor-pointer" style={{ color: "#c7cfdb", }}></i> </a>
                     <a href="mailto:vinothyaso17@gmail.com?subject=Hello%20There" className='flex items-center gap-1'>Checkout my Tiktok  <i className="fa-brands fa-tiktok text-2xl cursor-pointer pl-7" style={{ color: "#c7cfdb", }}></i> </a>
                     <a href="mailto:vinothyaso17@gmail.com?subject=Hello%20There" className='flex items-center gap-1'>Checkout my Youtube  <i className="fa-brands fa-youtube text-2xl cursor-pointer pl-3" style={{ color: "#c7cfdb", }}></i> </a>
 

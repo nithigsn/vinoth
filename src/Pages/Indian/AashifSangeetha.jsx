@@ -18,16 +18,16 @@ export default function AashifSangeetha() {
         <div className="w-full h-full flex flex-col items-center  ">
 
 
-            <h1 className=' lg:text-4xl'>Aashif Weds Sangeetha</h1>
+            <h1 className='halex mt-6 lg:text-6xl'>Aashif Weds Sangeetha</h1>
 
 
             <h3> Wedding Shoots</h3>
 
-            <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center">
+            <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center exl:w-[60vw]">
 
                 <div className="flex  flex-col  gap-y-1 ">
 
-                    <div className='flex gap-[3px] flex-wrap    '>
+                    <div className='flex gap-[3px] flex-wrap  exl:justify-center  '>
   
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689122/VIN_2331_bqlqfa.jpg" alt="" className='lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
@@ -38,7 +38,7 @@ export default function AashifSangeetha() {
 
                     </div>
 
-                    <div className="flex gap-1 flex-col lg:flex-row">
+                    <div className="flex gap-1 flex-col lg:flex-row exl:justify-center">
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689124/VIN_2371_wgmasa.jpg" alt="" className='w-full h-[250px] sm:h-[370px] md:h-[450px] lg:w-[504px] lg:h-[350px]' data-aos="fade-right" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689126/VIN_2440_nb6ea3.jpg" alt="" className='w-full h-[250px] sm:h-[370px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-left" />
@@ -46,7 +46,7 @@ export default function AashifSangeetha() {
 
                     </div>
 
-                    <div className='flex gap-[3px] flex-wrap    '>
+                    <div className='flex gap-[3px] flex-wrap exl:justify-center   '>
 
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689123/VIN_2348_wyhzpn.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
@@ -57,7 +57,7 @@ export default function AashifSangeetha() {
 
                     </div>
 
-                    <div className="flex gap-x-1 ">
+                    <div className="flex gap-x-1 exl:justify-center ">
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689127/VIN_2488_kz7nfx.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689126/VIN_2445_pgxykf.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
@@ -66,14 +66,14 @@ export default function AashifSangeetha() {
 
                     </div>
 
-                    <div className='flex flex-col gap-1 lg:flex-row'>
+                    <div className='flex flex-col gap-1 lg:flex-row exl:justify-center'>
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689126/VIN_2432_u5rvau.jpg" alt="" className='lg:w-[504px]' data-aos='fade-right' />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689125/VIN_2378_dexbvj.jpg" alt="" className='lg:w-[504px]' data-aos='fade-left' />
 
                     </div>
 
-                    <div className='flex gap-1 flex-wrap '>
+                    <div className='flex gap-1 flex-wrap exl:justify-center '>
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689125/VIN_2431_r7zxuu.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689125/VIN_2424_sq6o6e.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
@@ -84,7 +84,7 @@ export default function AashifSangeetha() {
 
                     </div>
 
-                    <div className='flex flex-col gap-1 lg:flex-row'>
+                    <div className='flex flex-col gap-1 lg:flex-row exl:justify-center'>
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689127/VIN_2496_aczsaa.jpg" alt="" className='lg:w-[504px]' data-aos='fade-right' />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689126/VIN_2471_wuf0yu.jpg" alt="" className='lg:w-[504px]' data-aos='fade-left' />
@@ -92,7 +92,7 @@ export default function AashifSangeetha() {
                     </div>
 
 
-                    <div className="flex gap-x-1 ">
+                    <div className="flex gap-x-1 exl:justify-center ">
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689128/VIN_2537_v6nneg.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689124/VIN_2406_tt4nn2.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
@@ -101,7 +101,7 @@ export default function AashifSangeetha() {
 
                     </div>
 
-                    <div className='flex flex-col gap-1 lg:flex-row lg:flex-wrap '>
+                    <div className='flex flex-col gap-1 lg:flex-row lg:flex-wrap exl:justify-center '>
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689126/VIN_2444_k5znvx.jpg" alt="" className='lg:w-[504px]' data-aos="fade-right" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689126/VIN_2435_pdbf3c.jpg" alt="" className='lg:w-[504px]' data-aos="fade-left" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689128/VIN_2592_xiihd6.jpg" alt="" className='lg:w-[504px]' data-aos="fade-right" />
@@ -112,7 +112,7 @@ export default function AashifSangeetha() {
 
 
 
-                    <div className='flex gap-1 flex-wrap '>
+                    <div className='flex gap-1 flex-wrap exl:justify-center'>
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689128/VIN_2611_g0htvb.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689128/VIN_2601_mtngqk.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />

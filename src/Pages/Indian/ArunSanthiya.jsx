@@ -18,10 +18,10 @@ export default function ArunSanthiya() {
         <div className="w-full h-full flex flex-col items-center  ">
 
 
-            <h1 className=' text-2xl'>Arun Weds Santhiya</h1>
+            <h1 className='mt-6 lg:text-6xl halex'>Arun Weds Santhiya</h1>
 
 
-            <h3>Pre Wedding Shoots</h3>
+            <h3>Pre Wedding Shoot</h3>
 
             <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center">
 
