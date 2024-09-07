@@ -67,10 +67,10 @@ export default function FistherVanissa() {
 
                         <div className="flex gap-1 flex-col lg:flex-row lg:flex-wrap">
 
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689494/VIN_9155_vpiypn.jpg" alt="" className='w-full h-[250px] sm:h-[370px] md:h-[450px] lg:w-[504px] lg:h-[350px]' data-aos="fade-right" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689495/VIN_9212_o5qi2v.jpg" alt="" className='w-full h-[250px] sm:h-[370px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-left" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689480/0A1A0244_hrzpzc.jpg" alt="" className='w-full h-[250px] sm:h-[370px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-right" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689480/0A1A0225_qr2t1r.jpg" alt="" className='w-full h-[250px] sm:h-[370px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-left" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689494/VIN_9155_vpiypn.jpg" alt="" className='w-full h-[250px] sm:h-[470px] md:h-[450px] lg:w-[504px] lg:h-[350px]' data-aos="fade-right" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689495/VIN_9212_o5qi2v.jpg" alt="" className='w-full h-[250px] sm:h-[470px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-left" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689480/0A1A0244_hrzpzc.jpg" alt="" className='w-full h-[250px] sm:h-[470px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-right" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689480/0A1A0225_qr2t1r.jpg" alt="" className='w-full h-[250px] sm:h-[470px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-left" />
 
 
                         </div>
@@ -83,9 +83,9 @@ export default function FistherVanissa() {
 
                         <div className="flex gap-x-1 ">
 
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689481/0A1A9982_kowkkz.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689482/0A1A9985_q8fzjm.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689481/0A1A9974_ow6l9s.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689481/0A1A9982_kowkkz.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[320px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689482/0A1A9985_q8fzjm.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[320px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689481/0A1A9974_ow6l9s.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[320px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
 
 
                         </div>
@@ -114,7 +114,9 @@ export default function FistherVanissa() {
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689483/6R6A8686_dejwgn.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689479/0A1A0173_sinm3p.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689489/6R6A9497_lraf3q.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689488/6R6A9479_od1tq4.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689491/6R6A9834_byd3x0.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689490/6R6A9500_xfecu3.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
 
 
 
