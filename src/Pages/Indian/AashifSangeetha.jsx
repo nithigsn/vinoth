@@ -28,7 +28,7 @@ export default function AashifSangeetha() {
                 <div className="flex  flex-col  gap-y-1 ">
 
                     <div className='flex gap-[3px] flex-wrap    '>
-
+  
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689122/VIN_2331_bqlqfa.jpg" alt="" className='lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689121/VIN_2250_eybypb.jpg" alt="" className='lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
