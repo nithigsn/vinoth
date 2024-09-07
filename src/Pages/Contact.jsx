@@ -8,7 +8,7 @@ function Contact() {
 
                 <div>
                     <p className='text-center'>Feel Free to contact me.</p>
-                    <p className='text-center'>Usual Response within a day</p>
+                    <p className='text-center'>Usual Response within a day !</p>
                 </div>
 
 
