@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import { json, useNavigate } from "react-router-dom";
+import {  useNavigate } from "react-router-dom";
 import PreLoading from "./PreLoading";
 
 
