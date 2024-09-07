@@ -7,14 +7,14 @@ function Play() {
             <div className="flex flex-col w-[90vw] items-center lg:w-[60vw] h-full ">
 
 
-                <div className='flex items-center justify-center w-full lg:h-[40vh] '>
+                <div className='flex items-center justify-center w-full lg:h-[50vh] '>
 
 
 
 
                     <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-[150px] w-[80px]    lg:h-[200px] lg:w-[130px]                rounded-bl-[25px] rounded-tl-[25px]  -z-10' />
-                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-full    w-[130px]   lg:h-[300px] lg:w-[200px]                rounded-[25px] z-10' />
-                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-[120px] w-[70px]    lg:h-[220px] lg:w-[130px]                rounded-br-[25px] rounded-tr-[25px] -z-10' />
+                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-full    w-[130px]   lg:h-[370px] lg:w-[230px]                rounded-[25px] z-10' />
+                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-[120px] w-[70px]    lg:h-[240px] lg:w-[150px]                rounded-br-[25px] rounded-tr-[25px] -z-10' />
 
 
 
