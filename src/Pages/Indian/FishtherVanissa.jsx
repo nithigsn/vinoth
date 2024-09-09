@@ -55,7 +55,7 @@ export default function FistherVanissa() {
                         </div>
 
 
-                        <div className='flex gap-1 flex-wrap exl:justify-center '>
+                        <div className='flex gap-[3px] flex-wrap exl:justify-center '>
 
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689482/0A1A0226_r9p8dy.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689496/VIN_9250_yuyv7x.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
