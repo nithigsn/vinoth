@@ -18,10 +18,10 @@ export default function AashifSangeetha() {
         <div className="w-full h-full flex flex-col items-center  ">
 
 
-            <h1 className='halex mt-6 lg:text-6xl'>Aashif Weds Sangeetha</h1>
+            <h1 className='halex text-4xl mt-6 lg:text-6xl'>Aashif Weds Sangeetha</h1>
 
 
-            <h3> Wedding Shoots</h3>
+            <h3> Wedding Shoot</h3>
 
             <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center exl:w-[60vw]">
 
@@ -73,7 +73,7 @@ export default function AashifSangeetha() {
 
                     </div>
 
-                    <div className='flex gap-1 flex-wrap exl:justify-center '>
+                    <div className='flex gap-[3px] flex-wrap exl:justify-center '>
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689125/VIN_2431_r7zxuu.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689125/VIN_2424_sq6o6e.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
@@ -112,7 +112,7 @@ export default function AashifSangeetha() {
 
 
 
-                    <div className='flex gap-1 flex-wrap exl:justify-center'>
+                    <div className='flex gap-[3px] flex-wrap exl:justify-center'>
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689128/VIN_2611_g0htvb.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689128/VIN_2601_mtngqk.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />

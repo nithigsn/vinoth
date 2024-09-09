@@ -108,9 +108,15 @@ export default function Main() {
 
                         <div className=" w-[45vw] flex flex-col h-[400px] gap-1 sm:w-[35vw]">
 
-                            <div className="w-[45vw] h-[200px] hi-1 rounded-sm sm:w-[35vw]"></div>
+                            <div className="w-[45vw] h-[200px] rounded-sm sm:w-[35vw]">
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689811/IMG_9852_vgbbxt.jpg" alt="" className='lg:w-[504px]'  />
+
+                            </div>
                             <div className="flex w-[45vw] h-[200px] gap-1 sm:w-[35vw]">
-                                <div className="w-[22.5vw]  hi-2 rounded-sm"></div>
+                                <div className="w-[22.5vw]   rounded-sm">
+                                <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689496/VIN_9386_w6dous.jpg" alt="img" className=''  />
+
+                                </div>
                                 <div className="hi-3 w-[22.5vw] rounded-sm"></div>
                             </div>
                         </div>

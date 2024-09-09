@@ -18,7 +18,7 @@ export default function ArunSanthiya() {
         <div className="w-full h-full flex flex-col items-center  ">
 
 
-            <h1 className='mt-6 lg:text-6xl halex'>Arun Weds Santhiya</h1>
+            <h1 className='mt-6 text-4xl lg:text-6xl halex'>Arun Weds Santhiya</h1>
 
 
             <h3>Pre Wedding Shoot</h3>
@@ -62,10 +62,10 @@ export default function ArunSanthiya() {
 
                     </div>
 
-                    <div className='flex gap-1 flex-wrap '>
+                    <div className='flex gap-[3px] flex-wrap '>
 
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689819/VIN_7735_spkmfl.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689825/VIN_8000_wi7l0u.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689819/VIN_7735_spkmfl.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689825/VIN_8000_wi7l0u.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689820/VIN_7748_zfke4a.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926517/VIN_7932_ppjjtf.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px]  sm:hidden lg:block' data-aos="zoom-in" />
 
@@ -104,7 +104,7 @@ export default function ArunSanthiya() {
 
                     <div className='flex flex-col gap-y-1'>
 
-                        <div className='flex gap-1 flex-wrap md:justify-center lg:justify-center' >
+                        <div className='flex gap-[3px] flex-wrap md:justify-center lg:justify-center' >
 
 
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689804/9W8A7176_xczdyk.jpg" className='w-[188.5px] h-[300px] lg:w-[250px] lg:h-[400px] ' alt="" data-aos="zoom-in" />
@@ -116,7 +116,7 @@ export default function ArunSanthiya() {
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689809/IMG_0107_pqiydv.jpg" alt="" data-aos="zoom-in" />
 
-                        <div className='flex flex-col gap-1 lg:flex-row lg:flex-wrap '>
+                        <div className='flex flex-col gap-[3px] lg:flex-row lg:flex-wrap '>
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725691121/9W8A7079_twmyje_awmqry.jpg" alt="" className='lg:w-[504px]' data-aos="fade-right" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725691122/9W8A7085_thgoyq_kcq4p0.jpg" alt="" className='lg:w-[504px]' data-aos="fade-left" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689803/9W8A6903_h1pkxn.jpg" alt="" className='lg:w-[504px]' data-aos="fade-right" />
@@ -126,7 +126,7 @@ export default function ArunSanthiya() {
                         </div>
 
 
-                        <div className='flex gap-1 flex-wrap lg:justify-center'>
+                        <div className='flex gap-[3px] flex-wrap lg:justify-center'>
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689808/IMG_0097_fqmfro.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px]' data-aos='zoom-in' />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689800/9W8A6543_tah4dg.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px]' data-aos='zoom-in' />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689798/9W8A6286_xto5wq.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px]' data-aos='zoom-in' />
