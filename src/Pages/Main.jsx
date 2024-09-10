@@ -123,7 +123,7 @@ export default function Main() {
 
 
                     {/* -------------------------------------------------Box 2------------------------------------- */}
-
+{/* 
                     <div className="box w-[90vw] h-[400px] flex justify-center cursor-pointer rounded-s mt-10 sm:w-[70vw]" data-aos="fade-right">
 
                         <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] sm:w-[35vw]">
@@ -157,7 +157,7 @@ export default function Main() {
                             </div>
                         </div>
 
-                    </div>
+                    </div> */}
 
 
                     {/* -------------------------------------------------Box 3------------------------------------- */}
@@ -169,9 +169,8 @@ export default function Main() {
                             <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly">
                                 <div>
                                     <h1 className="text-lg  font-bold sm:text-2xl lg:text-3xl">Events</h1>
-                                    <p className="text-sm">Over the years worked with lot of Indian clients
-                                        for indian style weddings.
-                                    </p>
+                                    <p className="text-sm">Birthday,Babyshoot,Maternity Shoot,Modelshoot you name it.
+                                        We do every kind of shoots !.                                    </p>
                                 </div>
 
                                 <div className="btn h-[50px] w-[100px] bg-white rounded-md flex items-center justify-evenly sm:h-[40px] sm:w-[120px] ">
@@ -188,10 +187,18 @@ export default function Main() {
 
                         <div className=" w-[45vw] flex flex-col h-[400px] gap-1 sm:w-[35vw]">
 
-                            <div className="w-[45vw] h-[200px] hi-1 rounded-sm sm:w-[35vw]"></div>
+                            <div className="w-[45vw] h-[200px] rounded-sm sm:w-[35vw] bd-1">
+                               
+
+                            </div>
                             <div className="flex w-[45vw] h-[200px] gap-1 sm:w-[35vw]">
-                                <div className="w-[22.5vw]  hi-2 rounded-sm"></div>
-                                <div className="hi-3 w-[22.5vw] rounded-sm"></div>
+                                <div className="w-[22.5vw]   rounded-sm bd-2">
+                                   
+                                </div>
+                                <div className=" w-[22.5vw] rounded-sm bd-3">
+                                  
+
+                                </div>
                             </div>
                         </div>
 
@@ -207,8 +214,8 @@ export default function Main() {
                             <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly sm: ">
                                 <div>
                                     <h1 className="text-lg  font-bold sm:text-2xl lg:text-3xl">Concerts</h1>
-                                    <p className="text-sm">Over the years worked with lot of Indian clients
-                                        for indian style weddings.
+                                    <p className="text-sm">Available for the concerts based on France.
+                                        Worked with <b>Asal Kolaar,Aniruth</b> etc.
                                     </p>
                                 </div>
 

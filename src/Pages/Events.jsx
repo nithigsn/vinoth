@@ -28,7 +28,6 @@ export default function Events() {
                         <h3 className='text-xl font-semibold sm:text-2xl'>Celine</h3>
                         <p className='text-xs w-[200px] text-black font-medium lg:text-[15px] text-center sm:w-[400px]'> It was a surprise birthday party with a lot of unexpected people flew from different countries to surprise her.</p>
                         <button className=' mt-6 h-8 w-3/4 border text-xs rounded cursor-pointer text-black ' onClick={()=>navigate('/events/celine')} >Captured Moments</button>
-
                     </div>
                 </div>
 

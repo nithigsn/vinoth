@@ -83,6 +83,20 @@ img {
   background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950892/VIN_1283_xliu8r.jpg);
   background-size: cover;
 }
+
+.bd-1{
+  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950886/VIN_1201_qgfdwg.jpg);
+  background-size: cover;
+}
+.bd-2{
+  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950892/VIN_1283_xliu8r.jpg);
+  background-size: cover;
+
+}
+.bd-3{
+  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950875/VIN_1144_bsb85n.jpg);
+  background-size: cover;
+}
 .tra {
   transform: scale(0.9) ease-in-out 1s;
   background-color: #f6f6f6;
