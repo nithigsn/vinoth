@@ -79,11 +79,18 @@ img {
   background-size: cover;
 }
 
+.celine{
+  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950892/VIN_1283_xliu8r.jpg);
+  background-size: cover;
+}
 .tra {
   transform: scale(0.9) ease-in-out 1s;
   background-color: #f6f6f6;
   box-shadow: 0px 0px 15px #dfdcdcaf;
 
+}
+.bg-glass{
+ backdrop-filter: blur(2px);
 }
 
 .bitmoji {
