@@ -6,7 +6,7 @@ function Contact() {
 
             <div className="flex flex-col  items-center w-[90vw] lg:w-[60vw]">
 
-                <div>
+                <div className='text-sm lg:text-base mt-5'>
                     <p className='text-center'>Feel Free to contact me.</p>
                     <p className='text-center'>Usual Response within a day !</p>
                 </div>
@@ -16,7 +16,7 @@ function Contact() {
 
 
 
-                <div className="flex flex-col justify-center mt-4">
+                <div className="flex flex-col justify-center mt-4 text-sm ">
 
 
 

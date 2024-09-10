@@ -75,7 +75,7 @@ img {
 }
 
 .hi-3 {
-  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725689811/IMG_9855_jkmqfy.jpg);
+  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725689800/9W8A6492_kopxbz.jpg);
   background-size: cover;
 }
 
@@ -93,4 +93,18 @@ img {
   background-size: cover;
 }
 
+@media screen and (min-width:1360px) {
+  .hi-1 {
+    background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/c_crop,ar_16:9/v1725689804/9W8A7786_g5cvns.jpg);
 
+  }
+
+  .hi-2 {
+    background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725348386/6R6A9177_igkrjc.jpg);
+  }
+
+  .hi-3 {
+    background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725689812/IMG_9861_z5zm28.jpg);
+  }
+
+}
