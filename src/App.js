@@ -11,6 +11,8 @@ import About from "./Pages/About";
 import Play from "./Pages/Play";
 import Contact from "./Pages/Contact";
 import PreLoading from "./Pages/PreLoading";
+import Events from "./Pages/Events";
+import Celine from "./Pages/Events/Celine";
 
 
 
@@ -50,6 +52,8 @@ function App() {
           <Route path="/hindu/arunsanthiya" element={<ArunSanthiya />} />
           <Route path="/hindu/fisthervanissa" element={<FistherVanissa />} />
           <Route path="/hindu/aashifsangeetha" element={<AashifSangeetha/>} />
+          <Route path="/events" element={<Events/>} />
+          <Route path="/events/celine" element={<Celine/>} />
         </Routes>
         <Footer />
       </BrowserRouter>
