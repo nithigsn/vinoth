@@ -94,8 +94,8 @@ img {
 
 }
 .bd-3{
-  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950875/VIN_1144_bsb85n.jpg);
-  background-size: cover;
+  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950878/VIN_1175_pb6m2c.jpg);  
+   background-size: cover;
 }
 .tra {
   transform: scale(0.9) ease-in-out 1s;
@@ -126,6 +126,9 @@ img {
 
   .hi-3 {
     background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725689812/IMG_9861_z5zm28.jpg);
+  }
+  .bd-3{
+    background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950875/VIN_1144_bsb85n.jpg);
   }
 
 }

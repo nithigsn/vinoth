@@ -167,9 +167,9 @@ export default function Main() {
                         <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] sm:w-[35vw]">
 
                             <div className="flex flex-col h-[400px] w-[30vw] items-start justify-evenly">
-                                <div>
+                                <div className="w-full">
                                     <h1 className="text-lg  font-bold sm:text-2xl lg:text-3xl">Events</h1>
-                                    <p className="text-sm">Birthday,Babyshoot,Maternity Shoot,Modelshoot you name it.
+                                    <p className="text-sm text-clip">Birthday,Babyshoot, <br />Maternity Shoot,Modelshoot you name it.
                                         We do every kind of shoots !.                                    </p>
                                 </div>
 
