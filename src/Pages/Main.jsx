@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import {  useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import PreLoading from "./PreLoading";
 
 
@@ -15,10 +15,10 @@ export default function Main() {
         // Return true if there's no saved value or the saved value is true
         return loading === null || JSON.parse(loading) === true;
     });
-    
+
     useEffect(() => {
         const savedLoading = localStorage.getItem('isLoading');
-    
+
         // If savedLoading is true (first time or while loading), start the timeout
         if (savedLoading === null || JSON.parse(savedLoading) === true) {
             setTimeout(() => {
@@ -29,7 +29,7 @@ export default function Main() {
             console.log("Loading has already completed previously.");
         }
     }, []);
-    
+
 
 
 
@@ -108,13 +108,11 @@ export default function Main() {
 
                         <div className=" w-[45vw] flex flex-col h-[400px] gap-1 sm:w-[35vw]">
 
-                            <div className="w-[45vw] h-[200px] rounded-sm sm:w-[35vw]">
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689811/IMG_9852_vgbbxt.jpg" alt="" className='lg:w-[504px]'  />
+                            <div className="w-[45vw] h-[200px] rounded-sm sm:w-[35vw] hi-1">
 
                             </div>
                             <div className="flex w-[45vw] h-[200px] gap-1 sm:w-[35vw]">
-                                <div className="w-[22.5vw]   rounded-sm">
-                                <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689496/VIN_9386_w6dous.jpg" alt="img" className=''  />
+                                <div className="w-[22.5vw] hi-2   rounded-sm">
 
                                 </div>
                                 <div className="hi-3 w-[22.5vw] rounded-sm"></div>

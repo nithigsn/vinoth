@@ -39,38 +39,6 @@
     }
 
 
-    /* Home Page Images */
-
-    .hi-1 {
-        background-image: url(../public/Assets/images/ArunSanthiya/w-l.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-
-    .hi-2 {
-        background-image: url(../public/Assets/images/ArunSanthiya/VIN_7619.jpg);
-        background-size: cover;
-
-    }
-
-    .hi-3 {
-        background-image: url(../public/Assets/images/ArunSanthiya/VIN_7792.jpg);
-        background-size: cover;
-    }
-
-    .tra {
-        transform: scale(0.9) ease-in-out 1s;
-        background-color: #f6f6f6;
-        box-shadow: 0px 0px 15px #dfdcdcaf;
-
-    }
-
-    .bitmoji {
-        height: 40px;
-        width: 40px;
-        background-image: url(../public/Assets/images/bitmoji.png);
-        background-size: cover;
-    }
 
 
     /* Indian  */
@@ -87,45 +55,9 @@
         background-repeat: no-repeat;
     }
 
-    .bg-sq {
-        background-image: url(../public/Assets/images/ArunSanthiya/9W8A6943.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        border-radius: 4px;
-    }
 
     .bg-sq1 {
         background-image: url(../public/Assets/images/fisther/f-ver.jpg);
-        background-size: cover;
-        border-radius: 4px;
-    }
-
-    .bg-sq2 {
-        background-image: url(../public/Assets/images/Indian/ind-sq\ 2.jpeg);
-        background-size: cover;
-        border-radius: 4px;
-    }
-
-    .bg-land {
-        background-image: url(../public/Assets/images/Indian/indian-land\ 2.jpg);
-        background-size: cover;
-        border-radius: 4px;
-    }
-
-    .bg-land-2 {
-        background-image: url(../public/Assets/images/Indian/hands-land.jpg);
-        background-size: cover;
-        border-radius: 4px;
-    }
-
-    .bg-land-1 {
-        background-image: url(../public/Assets/images/w-1.jpg);
-        background-size: cover;
-        border-radius: 4px;
-    }
-
-    .bg-sq3 {
-        background-image: url(../public/Assets/images/w-3.jpg);
         background-size: cover;
         border-radius: 4px;
     }

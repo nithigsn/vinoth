@@ -27,12 +27,12 @@ function App() {
 
   const [tab, setTab] = useState(() => {
     
-    const savedTab = localStorage.getItem('tab');
+    const savedTab = sessionStorage.getItem('tab');
     return savedTab !== null ? JSON.parse(savedTab) : "home"
   })
 
   useEffect(() => {
-    localStorage.setItem('tab', JSON.stringify(tab));
+    sessionStorage.setItem('tab', JSON.stringify(tab));
   }, [tab])
 
   return (
@@ -50,7 +50,6 @@ function App() {
           <Route path="/hindu/arunsanthiya" element={<ArunSanthiya />} />
           <Route path="/hindu/fisthervanissa" element={<FistherVanissa />} />
           <Route path="/hindu/aashifsangeetha" element={<AashifSangeetha/>} />
-
         </Routes>
         <Footer />
       </BrowserRouter>
