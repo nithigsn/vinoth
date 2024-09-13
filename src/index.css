@@ -24,9 +24,6 @@ img {
   border-radius: 2px;
 }
 
-.contain {
-  background-size: contain;
-}
 
 
 .transition-all {
@@ -51,8 +48,8 @@ img {
 .box:hover {
   background-color: white;
   box-shadow: 5px 5px 15px #dfdcdcaf;
-  transform: scale(1.05);
   transition: 0.8s ease-in-out;
+
 }
 
 .box:hover .btn {
@@ -79,32 +76,36 @@ img {
   background-size: cover;
 }
 
-.celine{
+.celine {
   background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950892/VIN_1283_xliu8r.jpg);
   background-size: cover;
 }
 
-.bd-1{
+.bd-1 {
   background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950886/VIN_1201_qgfdwg.jpg);
   background-size: cover;
 }
-.bd-2{
+
+.bd-2 {
   background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950892/VIN_1283_xliu8r.jpg);
   background-size: cover;
 
 }
-.bd-3{
-  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950878/VIN_1175_pb6m2c.jpg);  
-   background-size: cover;
+
+.bd-3 {
+  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950878/VIN_1175_pb6m2c.jpg);
+  background-size: cover;
 }
+
 .tra {
   transform: scale(0.9) ease-in-out 1s;
   background-color: #f6f6f6;
   box-shadow: 0px 0px 15px #dfdcdcaf;
 
 }
-.bg-glass{
- backdrop-filter: blur(2px);
+
+.bg-glass {
+  backdrop-filter: blur(2px);
 }
 
 .bitmoji {
@@ -127,7 +128,8 @@ img {
   .hi-3 {
     background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725689812/IMG_9861_z5zm28.jpg);
   }
-  .bd-3{
+
+  .bd-3 {
     background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950875/VIN_1144_bsb85n.jpg);
   }
 

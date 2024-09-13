@@ -31,7 +31,7 @@ export default function FistherVanissa() {
 
 
 
-                <h3 className='mt-6 text-xl'> Wedding Shoots</h3>
+                <h3 className='mt-6 text-sm lw:text-2xl'> Wedding Shoots</h3>
 
                 <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] exl:w-[60vw] justify-center">
 
@@ -40,9 +40,9 @@ export default function FistherVanissa() {
                         <div className='flex gap-[3px] justify-center flex-wrap    '>
 
 
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689493/IMG_6579_vvo2lr.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689491/IMG_6405_gdvyp7.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689492/IMG_6419_upv20p.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689493/IMG_6579_vvo2lr.jpg" alt="" className='lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689491/IMG_6405_gdvyp7.jpg" alt="" className='lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689492/IMG_6419_upv20p.jpg" alt="" className='lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
 
 
                         </div>
@@ -57,10 +57,10 @@ export default function FistherVanissa() {
 
                         <div className='flex gap-[3px] flex-wrap exl:justify-center '>
 
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689482/0A1A0226_r9p8dy.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689496/VIN_9250_yuyv7x.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689484/6R6A8709_tvtgz6.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689482/0A1A0253_on04oy.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689482/0A1A0226_r9p8dy.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689496/VIN_9250_yuyv7x.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689484/6R6A8709_tvtgz6.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689482/0A1A0253_on04oy.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
 
 
                         </div>
@@ -81,11 +81,11 @@ export default function FistherVanissa() {
 
                         </div>
 
-                        <div className="flex gap-x-1  exl:justify-center">
+                        <div className="flex gap-x-1  exl:justify-center flex-wrap lw:flex-nowrap">
 
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689481/0A1A9982_kowkkz.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[320px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689482/0A1A9985_q8fzjm.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[320px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689481/0A1A9974_ow6l9s.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[320px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689481/0A1A9982_kowkkz.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[320px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689482/0A1A9985_q8fzjm.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[320px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689481/0A1A9974_ow6l9s.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[320px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
 
 
                         </div>
@@ -111,12 +111,12 @@ export default function FistherVanissa() {
                         <div className='flex gap-[3px] flex-wrap  exl:justify-center   '>
 
 
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689483/6R6A8686_dejwgn.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689479/0A1A0173_sinm3p.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689489/6R6A9497_lraf3q.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689488/6R6A9479_od1tq4.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689491/6R6A9834_byd3x0.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689490/6R6A9500_xfecu3.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689483/6R6A8686_dejwgn.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689479/0A1A0173_sinm3p.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689489/6R6A9497_lraf3q.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689488/6R6A9479_od1tq4.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689491/6R6A9834_byd3x0.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689490/6R6A9500_xfecu3.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
 
 
 
@@ -134,8 +134,8 @@ export default function FistherVanissa() {
                         <div className='flex gap-[3px] flex-wrap justify-center'>
 
 
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348389/6R6A9170_ashaeh.jpg" alt=""    className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px]' data-aos="zoom-in" />
-                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689496/VIN_9386_w6dous.jpg" alt="img" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px]' data-aos='zoom-in' />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725348389/6R6A9170_ashaeh.jpg" alt=""    className=' lw:w-[188.5px] lW;h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px]' data-aos="zoom-in" />
+                            <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689496/VIN_9386_w6dous.jpg" alt=""    className=' lw:w-[188.5px] lW;h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px]' data-aos='zoom-in' />
 
 
                         </div>

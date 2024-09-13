@@ -32,16 +32,16 @@ export default function Celine() {
                     </div>
 
                     <div className='flex gap-[3px] flex-wrap  justify-center   '>
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950870/VIN_1123_j9y4lo.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950881/VIN_1183_y96txv.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950868/VIN_1113_clbr7w.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950873/VIN_1136_vewk4g.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950870/VIN_1123_j9y4lo.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950881/VIN_1183_y96txv.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950868/VIN_1113_clbr7w.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950873/VIN_1136_vewk4g.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                     </div>
 
-                    <div className="flex gap-[2px] ">
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950880/VIN_1178_llztlq.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950878/VIN_1175_pb6m2c.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950876/VIN_1154_i41iaj.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                    <div className="flex gap-[2px] flex-wrap lw:flex-nowrap ">
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950880/VIN_1178_llztlq.jpg" alt="" className='lw:w-[29.4vw] ;W:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950878/VIN_1175_pb6m2c.jpg" alt="" className='lw:w-[29.4vw] ;W:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950876/VIN_1154_i41iaj.jpg" alt="" className='lw:w-[29.4vw] ;W:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
                     </div>
 
                     <div className='flex flex-col gap-1 lg:flex-row'>
@@ -50,16 +50,16 @@ export default function Celine() {
                     </div>
 
                     <div className='flex gap-[3px] flex-wrap  justify-center'>
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950886/VIN_1205_hpmezy.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950887/VIN_1210_qodwhw.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950889/VIN_1211_fpsroa.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950889/VIN_1216_bcxehi.jpg" alt="" className='w-[188.5px] h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950886/VIN_1205_hpmezy.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950887/VIN_1210_qodwhw.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950889/VIN_1211_fpsroa.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950889/VIN_1216_bcxehi.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                     </div>
 
-                    <div className="flex gap-x-1 ">
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950864/VIN_0943_s3xcry.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950870/VIN_1118_vw4qy7.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950892/VIN_1283_xliu8r.jpg" alt="" className='w-[29.4vw] h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                    <div className="flex gap-1 flex-wrap lw:flex-nowrap ">
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950864/VIN_0943_s3xcry.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950870/VIN_1118_vw4qy7.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950892/VIN_1283_xliu8r.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
                     </div>
 
                     <div className='flex flex-col gap-1 lg:flex-row flex-wrap'>
