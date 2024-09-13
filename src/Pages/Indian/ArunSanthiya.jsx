@@ -46,7 +46,7 @@ export default function ArunSanthiya() {
 
                     </div>
 
-                    <div className="flex gap-x-1 flex-wrap">
+                    <div className="flex gap-x-1 flex-wrap lw:flex-nowrap">
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689814/VIN_7629_yrp4qm.jpg" alt="" className='lw:w-[29.4vw] lw:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689816/VIN_7664_bgpodc.jpg" alt="" className='lw:w-[29.4vw] lw:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
