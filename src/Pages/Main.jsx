@@ -233,10 +233,10 @@ export default function Main() {
 
                         <div className=" w-[45vw] flex flex-col h-[400px] gap-1 sm:w-[35vw]">
 
-                            <div className="w-[45vw] h-[200px] hi-1 rounded-sm sm:w-[35vw]"></div>
+                            <div className="w-[45vw] h-[200px] eve-1 rounded-sm sm:w-[35vw]"></div>
                             <div className="flex w-[45vw] h-[200px] gap-1 sm:w-[35vw]">
-                                <div className="w-[22.5vw]  hi-2 rounded-sm"></div>
-                                <div className="hi-3 w-[22.5vw] rounded-sm"></div>
+                                <div className="w-[22.5vw]  eve-2 rounded-sm"></div>
+                                <div className="eve-3 w-[22.5vw] rounded-sm"></div>
                             </div>
                         </div>
 

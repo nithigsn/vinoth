@@ -96,6 +96,20 @@ img {
   background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950878/VIN_1175_pb6m2c.jpg);
   background-size: cover;
 }
+.eve-1{
+  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1726208670/VIN_2917_kkwe4l.jpg);
+  background-size: cover;
+}
+
+.eve-2{
+  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1726208668/VIN_2903_ewiy78.jpg);
+  background-size: cover;
+}
+.eve-3{
+  background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1726208662/VIN_3199_yl8vx2.jpg);
+  background-size: cover;
+}
+
 
 .tra {
   transform: scale(0.9) ease-in-out 1s;
@@ -131,6 +145,16 @@ img {
 
   .bd-3 {
     background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/v1725950875/VIN_1144_bsb85n.jpg);
+  }
+  .eve-1{
+    background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/c_crop,ar_16:9/v1726208667/VIN_2891_msrkih.jpg);
+  }
+  .eve-2{
+    background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/c_crop,ar_1:1/v1726208671/VIN_2986_cysndf.jpg);
+  }
+  .eve-3{
+    background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/c_crop,ar_1:1/v1726208667/VIN_3272_qnxpei.jpg);
+    
   }
 
 }
