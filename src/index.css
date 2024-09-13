@@ -129,6 +129,7 @@ img {
   background-size: cover;
 }
 
+
 @media screen and (min-width:1360px) {
   .hi-1 {
     background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/c_crop,ar_16:9/v1725689804/9W8A7786_g5cvns.jpg);
@@ -154,7 +155,7 @@ img {
   }
   .eve-3{
     background-image: url(https://res.cloudinary.com/doqdlneyl/image/upload/c_crop,ar_1:1/v1726208667/VIN_3272_qnxpei.jpg);
-    
+
   }
 
 }
