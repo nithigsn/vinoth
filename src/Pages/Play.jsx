@@ -13,8 +13,8 @@ function Play() {
 
 
                     <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-[150px] w-[90px]    lg:h-[200px] lg:w-[130px]                rounded-bl-[25px] rounded-tl-[25px]  -z-10' />
-                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-full    w-[170px]   lg:h-[370px] lg:w-[230px]                rounded-[25px] z-10' />
-                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-[190px] w-[100px]    lg:h-[240px] lg:w-[150px]                rounded-br-[25px] rounded-tr-[25px] -z-10' />
+                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1726211734/Screenshot_2024-09-13-12-44-45-24_1c337646f29875672b5a61192b9010f9_xpaqsa.jpg" alt="" srcset="" className='h-[260px] w-[180px]   lg:h-[370px] lg:w-[230px]                rounded-[25px] z-10' />
+                    <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725604992/IMG_9489_dkz9vf.jpg" alt="" srcset="" className='h-[190px] w-[120px]    lg:h-[240px] lg:w-[150px]                rounded-br-[25px] rounded-tr-[25px] -z-10' />
 
 
 
