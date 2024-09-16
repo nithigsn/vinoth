@@ -19,10 +19,10 @@ export default function OneEightyParis() {
 
          
 
-            <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center">
+            <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] exl:w-[55vw] justify-center">
 
 
-                <div className="flex  flex-col  gap-y-1 ">
+                <div className="flex  flex-col  gap-y-1 exl:justify-center exl:items-center ">
 
                     <div className="flex gap-1 flex-col lg:flex-row">
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1726208670/VIN_2917_kkwe4l.jpg" alt="" className='w-full h-[250px] sm:h-[370px] md:h-[450px] lg:h-[350px] lg:w-[504px]' data-aos="fade-right" />
