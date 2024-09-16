@@ -222,7 +222,7 @@ export default function Main() {
                                 <div className="btn h-[50px] w-[100px] bg-white rounded-md flex items-center justify-evenly sm:h-[40px] sm:w-[120px] ">
 
 
-                                    <button className="text-sm font-medium " onClick={handlenavigateHindu}>Click Here </button>
+                                    <button className="text-sm font-medium " onClick={()=>navigate('/concerts')}>Click Here </button>
                                     <i className="fa-solid fa-arrow-right" style={{ color: "#d4d6d8" }}></i>
 
                                 </div>

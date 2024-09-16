@@ -13,6 +13,8 @@ import Contact from "./Pages/Contact";
 import PreLoading from "./Pages/PreLoading";
 import Events from "./Pages/Events";
 import Celine from "./Pages/Events/Celine";
+import Concert from "./Pages/Concert";
+import OneEightyParis from "./Pages/Concerts/OneEightyParis";
 
 
 
@@ -54,6 +56,8 @@ function App() {
           <Route path="/hindu/aashifsangeetha" element={<AashifSangeetha/>} />
           <Route path="/events" element={<Events/>} />
           <Route path="/events/celine" element={<Celine/>} />
+          <Route path='/concerts' element={<Concert/>}/>
+          <Route path='/concerts/180events' element={<OneEightyParis/>}/>
         </Routes>
         <Footer />
       </BrowserRouter>
