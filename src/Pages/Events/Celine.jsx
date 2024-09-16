@@ -17,14 +17,14 @@ export default function Celine() {
     return (
         <div className="w-full h-full flex flex-col items-center   ">
 
-            <div className="flex justify-center  w-full">
+            <div className="flex justify-center  w-full " data-aos='zoom-in'>
                 <img src="https://res.cloudinary.com/doqdlneyl/image/upload/c_crop,w_1920,h_500,g_auto/v1725950890/VIN_1217_jcwbrz.jpg" alt="" className='rounded-lg ' />
             </div>
 
-            <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center">
+            <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center exl:w-[53vw]">
 
 
-                <div className="flex  flex-col  gap-y-1 ">
+                <div className="flex  flex-col  gap-y-1 exl:items-center ">
 
                     <div className="flex gap-1 flex-col lg:flex-row">
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950864/VIN_0941_x4bnz1.jpg" alt="" className='w-full h-[250px] sm:h-[370px] md:h-[450px] lg:w-[504px] lg:h-[350px]' data-aos="fade-right" />
@@ -39,9 +39,9 @@ export default function Celine() {
                     </div>
 
                     <div className="flex gap-[2px] flex-wrap lw:flex-nowrap ">
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950880/VIN_1178_llztlq.jpg" alt="" className='lw:w-[29.4vw] ;W:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950878/VIN_1175_pb6m2c.jpg" alt="" className='lw:w-[29.4vw] ;W:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950876/VIN_1154_i41iaj.jpg" alt="" className='lw:w-[29.4vw] ;W:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950880/VIN_1178_llztlq.jpg" alt="" className='lw:w-[29.4vw] ;W:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px] exl:w-[335px]' data-aos='zoom-in' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950878/VIN_1175_pb6m2c.jpg" alt="" className='lw:w-[29.4vw] ;W:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px] exl:w-[335px]' data-aos='zoom-in' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950876/VIN_1154_i41iaj.jpg" alt="" className='lw:w-[29.4vw] ;W:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px] exl:w-[335px]' data-aos='zoom-in' />
                     </div>
 
                     <div className='flex flex-col gap-1 lg:flex-row'>
@@ -57,9 +57,9 @@ export default function Celine() {
                     </div>
 
                     <div className="flex gap-1 flex-wrap lw:flex-nowrap ">
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950864/VIN_0943_s3xcry.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950870/VIN_1118_vw4qy7.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950892/VIN_1283_xliu8r.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px]' data-aos='zoom-in' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950864/VIN_0943_s3xcry.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px] exl:w-[334px]' data-aos='zoom-in' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950870/VIN_1118_vw4qy7.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px] exl:w-[334px]' data-aos='zoom-in' />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725950892/VIN_1283_xliu8r.jpg" alt="" className=' lw:w-[29.4vw] lw:h-[200px] sm:h-[285px] sm:w-[271px] md:h-[330px] lg:h-[500px] lg:w-[337px] exl:w-[334px]' data-aos='zoom-in' />
                     </div>
 
                     <div className='flex flex-col gap-1 lg:flex-row flex-wrap'>

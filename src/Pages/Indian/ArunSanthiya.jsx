@@ -23,7 +23,7 @@ export default function ArunSanthiya() {
 
             <h3>Pre Wedding Shoot</h3>
 
-            <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center">
+            <div className="w-[90vw] h-full flex flex-col mt-8 items-center  lg:w-[66vw] justify-center ">
 
                 <div className="flex  flex-col  gap-y-1 ">
 
@@ -100,7 +100,7 @@ export default function ArunSanthiya() {
                 {/* Box 2 */}
 
 
-                <div className='w-[90vw] h-full flex flex-col mt-8 lg:w-[66vw]'>
+                <div className='w-[90vw] h-full flex flex-col mt-8 lg:w-[66vw] '>
 
                     <div className='flex flex-col gap-y-1'>
 
@@ -116,7 +116,7 @@ export default function ArunSanthiya() {
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689809/IMG_0107_pqiydv.jpg" alt="" data-aos="zoom-in" />
 
-                        <div className='flex flex-col gap-[3px] lg:flex-row lg:flex-wrap '>
+                        <div className='flex flex-col gap-[3px] lg:flex-row lg:flex-wrap justify-center'>
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725691121/9W8A7079_twmyje_awmqry.jpg" alt="" className='lg:w-[504px]' data-aos="fade-right" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725691122/9W8A7085_thgoyq_kcq4p0.jpg" alt="" className='lg:w-[504px]' data-aos="fade-left" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689803/9W8A6903_h1pkxn.jpg" alt="" className='lg:w-[504px]' data-aos="fade-right" />
@@ -134,7 +134,7 @@ export default function ArunSanthiya() {
                         </div>
 
 
-                        <div className='flex flex-col gap-[3px] lg:flex-row lg:flex-wrap'>
+                        <div className='flex flex-col gap-[3px] lg:flex-row lg:flex-wrap justify-center'>
 
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689797/9W8A6190_iuqlsp.jpg" alt="" className='lg:w-[504px]' data-aos="fade-right" />
                             <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689812/IMG_9880_bwlg2j.jpg" alt="" className='lg:w-[504px]' data-aos="fade-left" />

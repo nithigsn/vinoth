@@ -27,7 +27,7 @@ export default function Events() {
                     <div className='flex flex-col h-[200px] justify-center items-center w-full '>
                         <h3 className='text-xl font-semibold sm:text-2xl'>Celine</h3>
                         <p className='text-xs text-black font-medium lg:text-[15px] text-center '> It was a surprise birthday party with a lot of unexpected people <br /> flew  from different countries to surprise her.</p>
-                        <button className=' mt-6 h-8 w-3/4 border-[1px] border-white   text-xs rounded cursor-pointer text-black ' onClick={()=>navigate('/events/celine')} >Captured Moments</button>
+                        <button className=' mt-6 h-8 w-3/4 border-[1px] border-white   text-xs rounded cursor-pointer  ' onClick={()=>navigate('/events/celine')} >Captured Moments</button>
                     </div>
                 </div>
 
