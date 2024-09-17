@@ -66,8 +66,8 @@ export default function ArunSanthiya() {
 
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689819/VIN_7735_spkmfl.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689825/VIN_8000_wi7l0u.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[343px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
-                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689820/VIN_7748_zfke4a.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
                         <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1724926517/VIN_7932_ppjjtf.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px]  sm:hidden lg:block' data-aos="zoom-in" />
+                        <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1725689820/VIN_7748_zfke4a.jpg" alt="" className='w-[166.5px] lw:w-[188.5px] lw:h-[300px] md:w-[340px] md:h-[510px] lg:w-[250px] lg:h-[400px] ' data-aos="zoom-in" />
 
 
 
