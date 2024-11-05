@@ -11,20 +11,21 @@ export default function Main() {
 
 
     const [isLoading, setIsLoading] = useState(() => {
-        const loading = localStorage.getItem('isLoading');
+
+        const loading = sessionStorage.getItem('isLoading');
         // Return true if there's no saved value or the saved value is true
         return loading === null || JSON.parse(loading) === true;
     });
 
     useEffect(() => {
-        const savedLoading = localStorage.getItem('isLoading');
+        const savedLoading = sessionStorage.getItem('isLoading');
 
         // If savedLoading is true (first time or while loading), start the timeout
         if (savedLoading === null || JSON.parse(savedLoading) === true) {
             setTimeout(() => {
                 setIsLoading(false);
-                localStorage.setItem('isLoading', JSON.stringify(false));
-            }, 4000);
+                sessionStorage.setItem('isLoading', JSON.stringify(false));
+            }, 6000);
         } else {
             console.log("Loading has already completed previously.");
         }
@@ -59,17 +60,19 @@ export default function Main() {
 
             <div className="flex flex-col h-full w-full  items-center  sm:items-center  ">
 
+             
+
 
 
 
 
                 <div className="flex flex-col w-[90vw] h-full justify-around items-center ">
 
-                    <div className=" flex flex-col items-center justify-center w-[90vw] h-[400px] ">
+                    <div className=" flex flex-col items-center justify-center w-[90vw] h-screen ">
                         <h1 className="text-5xl text-center sm:text-6xl">Hi,I'm Vinoth.</h1>
 
                         <div className="flex items-center ">
-                            <p className="text-sm"> <i className="fa-solid fa-location-dot" style={{ color: "#d4d6d8" }} ></i> Paris,France</p>
+                            <p className="text-sm"> <i className="fa-solid fa-location-dot" style={{ color: "#d4d6d8" }} ></i> Paris,France.</p>
                         </div>
 
                         <p className="text-center text-xs w-[300px] lg:text-base lg:w-[700px]">I'm a Photographer and a Videographer.Over the years worked with many clients. <br />
