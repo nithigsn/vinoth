@@ -45,7 +45,7 @@ export default function Header() {
 
 
     return (
-        <div className="w-full h-24 flex items-center justify-evenly mt-4 relative">
+        <div className="w-full h-24 flex absolute top-0 items-center justify-evenly mt-4 z-[9999]">
             <div className="h-[60px] w-[60px] rounded-[50%] bg-[#ffffff] bsh flex items-center justify-center">
                 {
                     location.pathname === '/' ? <div className="bitmoji"></div> : <i className="fa-solid fa-arrow-left cursor-pointer" style={{ color: "#d4d6d8" }} onClick={() => navigate(-1)} > </i>

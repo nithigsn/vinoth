@@ -60,9 +60,9 @@ export default function Main() {
 
 
             <div className="flex flex-col h-full w-full  items-center  sm:items-center  ">
-                
+
                 <SplineHome />
-                <div className="div h-[150px] w-[99vw] mt-[80vh] bg-white  absolute translate-y-0  "></div>
+                <div className="div h-[200px] w-[99vw] mt-[80vh] bg-white  absolute translate-y-0  "></div>
 
 
 
@@ -70,7 +70,7 @@ export default function Main() {
 
 
 
-                <div className="flex relative flex-col w-[90vw] h-full justify-around items-center ">
+                <div className="flex  flex-col w-[90vw] h-full justify-around items-center ">
 
                     <div className=" flex flex-col items-center justify-center w-[90vw] h-screen ">
                         <h1 className="text-5xl text-center sm:text-6xl">Hi,I'm Vinoth.</h1>

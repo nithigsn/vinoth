@@ -2,7 +2,7 @@ import React from 'react'
 
 function Play() {
     return (
-        <div className='w-full h-full flex justify-center'>
+        <div className='w-full h-full flex justify-center pt-[60px]'>
 
             <div className="flex flex-col w-[90vw] items-center lg:w-[60vw] h-full ">
 
