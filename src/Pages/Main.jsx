@@ -66,15 +66,18 @@ export default function Main() {
                 <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1731058711/Drag_and_drop_-_Floating_Emojis_-_Copy_1-1920x992_2_pb1cyn.jpg" alt="" srcset=""  className="w-screen h-full"/>
 
                 </div> */}
-                <SplineHome/>
-
-             
+                <SplineHome />
 
 
+                <div className="div h-[150px] w-[99vw] mt-[80vh] bg-white  absolute translate-y-0  "></div>
 
 
 
-                <div className="flex flex-col w-[90vw] h-full justify-around items-center ">
+
+
+
+
+                <div className="flex relative flex-col w-[90vw] h-full justify-around items-center ">
 
                     <div className=" flex flex-col items-center justify-center w-[90vw] h-screen ">
                         <h1 className="text-5xl text-center sm:text-6xl">Hi,I'm Vinoth.</h1>
@@ -84,10 +87,16 @@ export default function Main() {
                         </div>
 
                         <p className="text-center text-xs w-[300px] lg:text-base lg:w-[700px]">I'm a Photographer and a Videographer.Over the years worked with many clients. <br />
-                            Captured many precious moments. Scroll down and Checkout !</p>
+                            Captured many precious moments. Scroll down and Checkout !
+                        </p>
+
+                        
 
 
                     </div>
+
+
+
 
 
 
@@ -135,7 +144,7 @@ export default function Main() {
 
 
                     {/* -------------------------------------------------Box 2------------------------------------- */}
-{/* 
+                    {/* 
                     <div className="box w-[90vw] h-[400px] flex justify-center cursor-pointer rounded-s mt-10 sm:w-[70vw]" data-aos="fade-right">
 
                         <div className="flex flex-col justify-center items-center w-[45vw] h-[400px] sm:w-[35vw]">
@@ -188,7 +197,7 @@ export default function Main() {
                                 <div className="btn h-[50px] w-[100px] bg-white rounded-md flex items-center justify-evenly sm:h-[40px] sm:w-[120px] ">
 
 
-                                    <button className="text-sm font-medium " onClick={()=>navigate('/events')}>Click Here </button>
+                                    <button className="text-sm font-medium " onClick={() => navigate('/events')}>Click Here </button>
                                     <i className="fa-solid fa-arrow-right" style={{ color: "#d4d6d8" }}></i>
 
                                 </div>
@@ -200,15 +209,15 @@ export default function Main() {
                         <div className=" w-[45vw] flex flex-col h-[400px] gap-1 sm:w-[35vw]">
 
                             <div className="w-[45vw] h-[200px] rounded-sm sm:w-[35vw] bd-1">
-                               
+
 
                             </div>
                             <div className="flex w-[45vw] h-[200px] gap-1 sm:w-[35vw]">
                                 <div className="w-[22.5vw]   rounded-sm bd-2">
-                                   
+
                                 </div>
                                 <div className=" w-[22.5vw] rounded-sm bd-3">
-                                  
+
 
                                 </div>
                             </div>
@@ -234,7 +243,7 @@ export default function Main() {
                                 <div className="btn h-[50px] w-[100px] bg-white rounded-md flex items-center justify-evenly sm:h-[40px] sm:w-[120px] ">
 
 
-                                    <button className="text-sm font-medium " onClick={()=>navigate('/concerts')}>Click Here </button>
+                                    <button className="text-sm font-medium " onClick={() => navigate('/concerts')}>Click Here </button>
                                     <i className="fa-solid fa-arrow-right" style={{ color: "#d4d6d8" }}></i>
 
                                 </div>
@@ -254,7 +263,7 @@ export default function Main() {
 
 
 
-    
+
 
                     </div>
 
@@ -266,7 +275,7 @@ export default function Main() {
 
                 </div>
 
-                <div className="div h-[150px] w-full bg-white translate-y-[840px]  absolute top-0 "></div>
+
 
 
 
