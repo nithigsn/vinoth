@@ -266,7 +266,7 @@ export default function Main() {
 
                 </div>
 
-                <div className="div h-12 w-full bg-white translate-y-[840px] translate-x-[100px] absolute top-0 "></div>
+                <div className="div h-[150px] w-full bg-white translate-y-[840px]  absolute top-0 "></div>
 
 
 
