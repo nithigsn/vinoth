@@ -4,6 +4,7 @@ import AOS from 'aos'
 import 'aos/dist/aos.css'
 import { useNavigate } from "react-router-dom";
 import PreLoading from "./PreLoading";
+import SplineHome from "../Components/SplineHome";
 
 
 
@@ -60,6 +61,13 @@ export default function Main() {
 
             <div className="flex flex-col h-full w-full  items-center  sm:items-center  ">
 
+                {/* <div className="flex w-full h-screen absolute -z-50">
+
+                <img src="https://res.cloudinary.com/doqdlneyl/image/upload/v1731058711/Drag_and_drop_-_Floating_Emojis_-_Copy_1-1920x992_2_pb1cyn.jpg" alt="" srcset=""  className="w-screen h-full"/>
+
+                </div> */}
+                <SplineHome/>
+
              
 
 
@@ -77,6 +85,7 @@ export default function Main() {
 
                         <p className="text-center text-xs w-[300px] lg:text-base lg:w-[700px]">I'm a Photographer and a Videographer.Over the years worked with many clients. <br />
                             Captured many precious moments. Scroll down and Checkout !</p>
+
 
                     </div>
 
@@ -243,7 +252,15 @@ export default function Main() {
                             </div>
                         </div>
 
+
+
+    
+
                     </div>
+
+
+
+
 
 
 

@@ -16,7 +16,7 @@ function PreLoading() {
 
 
     return (
-        <div className='w-full h-screen absolute top-0 left-0 bg-white justify-center  flex flex-col  items-center z-[9999]'>
+        <div className='w-full h-screen absolute top-0 left-0 bg-white justify-center  flex flex-col  items-center z-[99]'>
 
             <div className='h-[300px]'>
 
